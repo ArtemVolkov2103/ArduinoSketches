@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<strings>
+  <String ID="1" Value="Kembali"/>
+  <String ID="2" Value="Maju"/>
+  <String ID="3" Value="Laman"/>
+  <String ID="4" Value="Cetak topik ini"/>
+  <String ID="5" Value="Hasil pencarian untuk"/>
+  <String ID="6" Value="Penanda"/>
+  <String ID="7" Value="Cari"/>
+  <String ID="8" Value="Masukkan istilah pencarian..."/>
+  <String ID="9" Value="Penampil"/>
+  <String ID="10" Value="Lihat Juga"/>
+  <String ID="11" Value="Isi"/>
+  <String ID="12" Value="Nama Baru"/>
+  <String ID="13" Value="OK"/>
+  <String ID="14" Value="Batal"/>
+  <String ID="15" Value="Tutup"/>
+  <String ID="16" Value="Maksimalkan"/>
+  <String ID="17" Value="Minimalkan"/>
+  <String ID="18" Value="Bagaimana Saya...?"/>
+  <String ID="19" Value="Buka"/>
+  <String ID="20" Value="Hapus"/>
+  <String ID="21" Value="Ganti nama"/>
+  <String ID="22" Value="Penanda Saya:"/>
+  <String ID="23" Value="Tandai topik"/>
+  <String ID="24" Value="Hasil lokal..."/>
+  <String ID="25" Value="Hasil daring..."/>
+  <String ID="26" Value="Hasil lokal dan daring..."/>
+  <String ID="27" Value="Penampil Bantuan HP"/>
+  <String ID="28" Value="Selamat datang di Penampil Bantuan HP."/>
+  <String ID="29" Value="Masukkan istilah pencarian di atas untuk menemukan bantuan untuk produk Anda."/>
+  <String ID="30" Value="Tidak dapat menyambung ke Internet."/>
+  <String ID="31" Value="Tidak ditemukan hasil untuk"/>
+  <String ID="32" Value="Perluas"/>
+  <String ID="33" Value="Persempit"/>
+  <String ID="34" Value="Pulihkan"/>
+  <String ID="35" Value="Tunggu sebentar..."/>
+  <String ID="36" Value="Mengindeks berkas. Proses ini dapat berlangsung beberapa detik tergantung pada kecepatan sistem Anda."/>
+  <String ID="37" Value="Bantuan"/>
+  <String ID="38" Value="Sebuah penanda sudah ada untuk item ini. Apakah Anda ingin menimpanya?"/>
+  <String ID="39" Value="Apakah Anda yakin ingin menghapusnya?"/>
+  <String ID="40" Value="Pilih Semua"/>
+  <String ID="41" Value="Lihat Sumber"/>
+  <String ID="42" Value="Cetak..."/>
+  <String ID="43" Value="Segarkan"/>
+  <String ID="44" Value="Properti"/>
+  <String ID="51" Value="Pilihan pencarian"/>
+  <String ID="52" Value="Sesuaikan ukuran"/>
+  <String ID="53" Value="Sebuah penanda dengan nama ini sudah ada. Silakan pilih nama yang lain."/>
+  <String ID="54" Value="Cetak"/>
+  <String ID="55" Value="Potong"/>
+  <String ID="56" Value="Salin"/>
+  <String ID="57" Value="Tempel"/>
+  <String ID="58" Value="Hapus"/>
+  <String ID="59" Value="Buka bantuan HP"/>
+  <String ID="60" Value="Termasuk hasil daring"/>
+  <String ID="61" Value="Dapatkan bantuan spesifik produk untuk mengidentifikasi dan mengatasi masalah dengan mudah."/>
+  <String ID="62" Value="Anda harus menginstal Bantuan elektronik untuk melihat isi bantuan di sini. Pelajari tentang penggunaan printer, berikut fitur, pemecahan masalah, maklumat, informasi lingkungan, pengaturan, dan dukungannya dari Bantuan elektronik."/>
+  <String ID="63" Value="Anda dapat menginstal Bantuan elektronik dari CD perangkat lunak HP atau situs web pendukung:"/>
+  <String ID="64" Value="Untuk menginstal dari CD perangkat lunak HP, masukkan CD, kemudian mulailah menginstalnya."/>
+  <String ID="65" Value="Untuk menginstal dari situs web pendukung, kunjungi &lt;a href=&quot;[hub_url]&quot;&gt;hp.com/support&lt;/a&gt;, kemudian unduh perangkat lunak  “Perangkat Lunak dan Pengandar Kaya Fitur”."/>
+  <String ID="66" Value="Saat layar menampilkan perangkat lunak yang direkomendasikan, pastikan pilihan “Bantuan [prodName]” dipilih."/>
+</strings>

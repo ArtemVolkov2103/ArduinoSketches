@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<strings>
+  <String ID="1"   Value="Back" />
+  <String ID="2"   Value="Forward" />
+  <String ID="3"   Value="Home" />
+  <String ID="4"   Value="Print this topic" />
+  <String ID="5"   Value="Search results for" />
+  <String ID="6"   Value="Bookmarks" />
+  <String ID="7"   Value="Search" />
+  <String ID="8"   Value="Enter search term..." />
+  <String ID="9"   Value="Viewer" />
+  <String ID="10"  Value="See Also" />
+  <String ID="11"  Value="Contents" />
+  <String ID="12"  Value="New Name" />
+  <String ID="13"  Value="OK" />
+  <String ID="14"  Value="Cancel" />
+  <String ID="15"  Value="Close" />
+  <String ID="16"  Value="Maximize" />
+  <String ID="17"  Value="Minimize" />
+  <String ID="18"  Value="How Do I...?" />
+  <String ID="19"  Value="Open" />
+  <String ID="20"  Value="Delete" />
+  <String ID="21"  Value="Rename" />
+  <String ID="22"  Value="My Bookmarks:" />
+  <String ID="23"  Value="Bookmark topic" />
+  <String ID="24"  Value="Local results..." />
+  <String ID="25"  Value="Online results..." />
+  <String ID="26"  Value="Local and online results..." />
+  <String ID="27"  Value="HP Help Viewer" />
+  <String ID="28"  Value="Welcome to HP Help Viewer." />
+  <String ID="29"  Value="Enter a search term above to find help for your product." />
+  <String ID="30"  Value="Unable to connect to the Internet." />
+  <String ID="31"  Value="No results found for" />
+  <String ID="32"  Value="Expand" />
+  <String ID="33"  Value="Collapse" />
+  <String ID="34"  Value="Restore" />
+  <String ID="35"  Value="One moment please..." />
+  <String ID="36"  Value="Indexing files. This may take a few moments depending on the speed of your system." />
+  <String ID="37"  Value="Help" />
+  <String ID="38"  Value="A Bookmark already exists for this item. Do you want to overwrite it?" />
+  <String ID="39"  Value="Are you sure you want to delete?" />
+  <String ID="40"  Value="Select All" />
+  <String ID="41"  Value="View Source" />
+  <String ID="42"  Value="Print..." />
+  <String ID="43"  Value="Refresh" />
+  <String ID="44"  Value="Properties" />
+  <String ID="51"  Value="Search options" />
+  <String ID="52"  Value="Resize" />
+  <String ID="53"  Value="A Bookmark with this name already exists. Please choose a different name." />
+  <String ID="54"  Value="Print" />
+  <String ID="55"  Value="Cut" />
+  <String ID="56"  Value="Copy" />
+  <String ID="57"  Value="Paste" />
+  <String ID="58"  Value="Delete" />
+  <String ID="59"  Value="Launch HP help" />
+  <String ID="60"  Value="Include online results" />
+  <String ID="61"  Value="Get product specific help to easily troubleshoot and fix problems." />
+  <String ID="62"  Value="You must install the electronic Help to view Help content here. Learn about printer use, features, troubleshooting, notices, environmental, regulatory, and support information from the electronic Help." />
+  <String ID="63"  Value="You can install the electronic Help from the HP software CD or the support website:" />
+  <String ID="64"  Value="To install from the HP software CD, insert the CD, and then begin installing the software." />
+  <String ID="65"  Value="To install from the support website, visit &lt;a href=&quot;[hub_url]&quot;&gt;hp.com/support&lt;/a&gt;, and then download the “Full Feature Software and Drivers” software." />
+  <String ID="66"  Value="When you see the screen listing recommended software, make sure the “[prodName] Help” option is selected." />
+</strings>

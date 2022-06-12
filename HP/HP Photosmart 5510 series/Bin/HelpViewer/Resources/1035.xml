@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<strings>
+  <String ID="1" Value="Takaisin"/>
+  <String ID="2" Value="Seuraava"/>
+  <String ID="3" Value="koti"/>
+  <String ID="4" Value="Tulosta tämä aihe"/>
+  <String ID="5" Value="Hakutulokset kohteelle"/>
+  <String ID="6" Value="Kirjanmerkit"/>
+  <String ID="7" Value="Haku"/>
+  <String ID="8" Value="Anna hakusana..."/>
+  <String ID="9" Value="Katseluohjelma"/>
+  <String ID="10" Value="Katso myös"/>
+  <String ID="11" Value="Sisältö"/>
+  <String ID="12" Value="Uusi nimi"/>
+  <String ID="13" Value="OK"/>
+  <String ID="14" Value="Peruuta"/>
+  <String ID="15" Value="Sulje"/>
+  <String ID="16" Value="Suurenna"/>
+  <String ID="17" Value="Pienennä"/>
+  <String ID="18" Value="Kuinka ...?"/>
+  <String ID="19" Value="Avaa"/>
+  <String ID="20" Value="Poista"/>
+  <String ID="21" Value="Nimeä uudelleen"/>
+  <String ID="22" Value="Minun kirjanmerkkini:"/>
+  <String ID="23" Value="Kirjanmerkin aihe"/>
+  <String ID="24" Value="Paikalliset tulokset…"/>
+  <String ID="25" Value="Verkkotulokset…"/>
+  <String ID="26" Value="Paikalliset ja verkkotulokset…"/>
+  <String ID="27" Value="HP:n ohjeenkatseluohjelma"/>
+  <String ID="28" Value="Tervetuloa HP:n ohjeenkatseluohjlemaan."/>
+  <String ID="29" Value="Kirjoittamalla hakuehdon yläpuolelle löydät tuotteesi ohjeen."/>
+  <String ID="30" Value="Internetiin yhdistäminen ei onnistu."/>
+  <String ID="31" Value="Tuloksia ei löytynyt kohteelle"/>
+  <String ID="32" Value="Laajenna"/>
+  <String ID="33" Value="Tiivistä"/>
+  <String ID="34" Value="Palauta"/>
+  <String ID="35" Value="Odota hetki..."/>
+  <String ID="36" Value="Indeksoidaan tiedostoja. Tämä voi kestää hetken järjestelmäsi nopeudesta riippuen."/>
+  <String ID="37" Value="Ohje"/>
+  <String ID="38" Value="Tälle kohteelle on jo olemassa kirjanmerkki. Haluatko kirjoittaa sen päälle?"/>
+  <String ID="39" Value="Haluatko varmasti poistaa?"/>
+  <String ID="40" Value="Valitse kaikki"/>
+  <String ID="41" Value="Näytä lähde"/>
+  <String ID="42" Value="Tulosta..."/>
+  <String ID="43" Value="Päivitä"/>
+  <String ID="44" Value="Ominaisuudet"/>
+  <String ID="51" Value="Hakuasetukset"/>
+  <String ID="52" Value="Muuta kokoa"/>
+  <String ID="53" Value="Tämän niminen kirjanmerkki on jo olemassa. Valitse toinen nimi."/>
+  <String ID="54" Value="Tulosta"/>
+  <String ID="55" Value="Leikkaa"/>
+  <String ID="56" Value="Kopioi"/>
+  <String ID="57" Value="Liitä"/>
+  <String ID="58" Value="Poista"/>
+  <String ID="59" Value="Käynnistä HP-ohje"/>
+  <String ID="60" Value="Ota mukaan verkon tulokset"/>
+  <String ID="61" Value="Saat tuotteille täsmällisiä ohjeita, joiden avulla voit helposti tehdä vianmääritystä ja korjata ongelmia."/>
+  <String ID="62" Value="Sähköinen ohje täytyy asentaa, jotta tätä ohjesisältöä voidaan tarkastella. Sähköisessä ohjeessa on tietoja tulostimen käytöstä, ominaisuuksista, vianmäärityksestä sekä huomautuksia ja ympäristö-, lainsäädäntö- ja tukitietoa."/>
+  <String ID="63" Value="Voit asentaa sähköisen ohjeen HP:n ohjelmisto-CD:ltä tai tukisivustosta:"/>
+  <String ID="64" Value="Jos asennus suoritetaan HP:n ohjelmisto-CD:ltä, aseta CD-levy asemaan ja aloita ohjelmiston asennus."/>
+  <String ID="65" Value="Jos asennus suoritetaan tukisivustosta, siirry osoitteeseen &lt;a href=&quot;[hub_url]&quot;&gt;hp.com/support&lt;/a&gt; ja lataa kaikkien toimintojen ohjelmisto ja ohjaimet."/>
+  <String ID="66" Value="Kun näet luettelon suositelluista ohjelmistoista, valitse [prodName] Ohje -vaihtoehto."/>
+</strings>

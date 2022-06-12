@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<strings>
+  <String ID="1" Value="Voltar"/>
+  <String ID="2" Value="Encaminhar"/>
+  <String ID="3" Value="Casa"/>
+  <String ID="4" Value="Imprimir este tópico"/>
+  <String ID="5" Value="Pesquisar resultados"/>
+  <String ID="6" Value="Marcadores"/>
+  <String ID="7" Value="Pesquisar"/>
+  <String ID="8" Value="Inserir termo de pesquisa..."/>
+  <String ID="9" Value="Visualizador"/>
+  <String ID="10" Value="Consulte também"/>
+  <String ID="11" Value="Conteúdo"/>
+  <String ID="12" Value="Novo nome"/>
+  <String ID="13" Value="OK"/>
+  <String ID="14" Value="Cancelar"/>
+  <String ID="15" Value="Fechar"/>
+  <String ID="16" Value="Maximizar"/>
+  <String ID="17" Value="Minimizar"/>
+  <String ID="18" Value="Como eu...?"/>
+  <String ID="19" Value="Abrir"/>
+  <String ID="20" Value="Excluir"/>
+  <String ID="21" Value="Renomear"/>
+  <String ID="22" Value="Meus marcadores:"/>
+  <String ID="23" Value="Tópico de marcador"/>
+  <String ID="24" Value="Resultados locais..."/>
+  <String ID="25" Value="Resultados on-line..."/>
+  <String ID="26" Value="Resultados locais e on-line..."/>
+  <String ID="27" Value="HP Help Viewer"/>
+  <String ID="28" Value="Bem-vindo ao Visualizador de Ajuda HP."/>
+  <String ID="29" Value="Digite um termo de pesquisa acima para localizar a ajuda do produto."/>
+  <String ID="30" Value="Não é possível se conectar à internet."/>
+  <String ID="31" Value="Nenhum resultado encontrado para"/>
+  <String ID="32" Value="Expandir"/>
+  <String ID="33" Value="Recolher"/>
+  <String ID="34" Value="Restaurar"/>
+  <String ID="35" Value="Aguarde..."/>
+  <String ID="36" Value="Indexando arquivos.Isso pode levar alguns minutos, dependendo da velocidade do sistema."/>
+  <String ID="37" Value="Ajuda"/>
+  <String ID="38" Value="Já existe um marcador para este item. Deseja substituí-lo?"/>
+  <String ID="39" Value="Tem certeza de que deseja excluir?"/>
+  <String ID="40" Value="Selecionar tudo"/>
+  <String ID="41" Value="Exibir a origem"/>
+  <String ID="42" Value="Imprimir..."/>
+  <String ID="43" Value="Atualizar"/>
+  <String ID="44" Value="Propriedades"/>
+  <String ID="51" Value="Opções de pesquisa"/>
+  <String ID="52" Value="Redimensionar"/>
+  <String ID="53" Value="Já existe um marcador com este nome. Escolha um nome diferente."/>
+  <String ID="54" Value="Imprimir"/>
+  <String ID="55" Value="Recortar"/>
+  <String ID="56" Value="Copiar"/>
+  <String ID="57" Value="Colar"/>
+  <String ID="58" Value="Excluir"/>
+  <String ID="59" Value="Iniciar a Ajuda HP"/>
+  <String ID="60" Value="Incluir resultados on-line"/>
+  <String ID="61" Value="Obter ajuda específica do produto para corrigir problemas facilmente."/>
+    <String ID="62" Value="É preciso instalar a Ajuda eletrônica para ver o conteúdo da Ajuda aqui. Saiba mais sobre as informações de uso, recursos, solução de problemas, avisos, ambientais, regulamentares e suporte da impressora na Ajuda eletrônica."/>
+    <String ID="63" Value="É possível instalar a Ajuda eletrônica do CD do software HP ou do site de suporte:"/>
+    <String ID="64" Value="Para instalar do CD do software HP, insira o CD e comece a instalar o software."/>
+    <String ID="65" Value="Para instalar o site de suporte, visite &lt;a href=&quot;[hub_url]&quot;&gt;hp.com/support&lt;/a&gt;
+ e baixe o software “Softwares e driver completos”."/>
+    <String ID="66" Value="Ao ver o software recomendado na lista exibida na tela, verifique se a opção “Ajuda do [prodName]” está selecionada."/>
+</strings>

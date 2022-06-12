@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<strings>
+  <String ID="1" Value="上一步"/>
+  <String ID="2" Value="快轉"/>
+  <String ID="3" Value="家裡"/>
+  <String ID="4" Value="列印此主題"/>
+  <String ID="5" Value="下列項目的搜尋結果"/>
+  <String ID="6" Value="書籤"/>
+  <String ID="7" Value="搜尋"/>
+  <String ID="8" Value="輸入搜尋詞彙..."/>
+  <String ID="9" Value="檢視器"/>
+  <String ID="10" Value="另請參閱"/>
+  <String ID="11" Value="內容"/>
+  <String ID="12" Value="新名稱"/>
+  <String ID="13" Value="確定"/>
+  <String ID="14" Value="取消"/>
+  <String ID="15" Value="關閉"/>
+  <String ID="16" Value="最大化"/>
+  <String ID="17" Value="最小化"/>
+  <String ID="18" Value="如何...？"/>
+  <String ID="19" Value="開啟"/>
+  <String ID="20" Value="刪除"/>
+  <String ID="21" Value="重新命名"/>
+  <String ID="22" Value="我的書籤："/>
+  <String ID="23" Value="書籤標題"/>
+  <String ID="24" Value="當地結果…"/>
+  <String ID="25" Value="線上結果…"/>
+  <String ID="26" Value="當地和線上結果…"/>
+  <String ID="27" Value="HP 說明檢視器"/>
+  <String ID="28" Value="歡迎使用 HP 說明檢視器。"/>
+  <String ID="29" Value="在上面輸入一個搜尋片語，以尋找您產品的說明。"/>
+  <String ID="30" Value="無法連接到網際網路。"/>
+  <String ID="31" Value="找不到下列項目的結果"/>
+  <String ID="32" Value="展開"/>
+  <String ID="33" Value="摺疊"/>
+  <String ID="34" Value="還原"/>
+  <String ID="35" Value="請稍候..."/>
+  <String ID="36" Value="正在建立檔案索引。 根據您系統的速度，這可能會花一些時間。"/>
+  <String ID="37" Value="說明"/>
+  <String ID="38" Value="此項目的書籤已存在。 要覆寫嗎?"/>
+  <String ID="39" Value="確定要刪除嗎？"/>
+  <String ID="40" Value="全選"/>
+  <String ID="41" Value="檢視來源"/>
+  <String ID="42" Value="列印..."/>
+  <String ID="43" Value="重新整理"/>
+  <String ID="44" Value="內容"/>
+  <String ID="51" Value="搜尋選項"/>
+  <String ID="52" Value="重設尺寸"/>
+  <String ID="53" Value="具有此名稱的書籤已存在。 請選擇另一個名稱。"/>
+  <String ID="54" Value="列印"/>
+  <String ID="55" Value="剪下"/>
+  <String ID="56" Value="影印"/>
+  <String ID="57" Value="貼上"/>
+  <String ID="58" Value="刪除"/>
+  <String ID="59" Value="啟動 HP 說明"/>
+  <String ID="60" Value="包含線上結果"/>
+  <String ID="61" Value="取得產品專屬說明可以輕鬆疑難排解與修正問題。"/>
+  <String ID="62" Value="您必須安裝電子說明，才能檢視此處的說明內容。 從電子說明瞭解印表機使用、功能、疑難排解、注意事項、環保、管理以及支援資訊。"/>
+  <String ID="63" Value="您可以從 HP 軟體 CD 或支援網站安裝電子說明："/>
+  <String ID="64" Value="若要從 HP 軟體 CD 安裝，請插入 CD，然後開始安裝軟體。"/>
+  <String ID="65" Value="若要從支援網站安裝，請造訪 &lt;a href=&quot;[hub_url]&quot;&gt;hp.com/support&lt;/a&gt;，然後下載「完整功能軟體和驅動程式」軟體。取得產品專屬說明可以輕鬆疑難排解與修正問題。"/>
+  <String ID="66" Value="系統顯示列有建議軟體的畫面時，請確定已選擇「[prodName] 說明」選項。"/>
+</strings>

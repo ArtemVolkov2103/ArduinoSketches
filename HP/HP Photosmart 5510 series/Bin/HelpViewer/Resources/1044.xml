@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<strings>
+  <String ID="1" Value="Tilbake"/>
+  <String ID="2" Value="Frem"/>
+  <String ID="3" Value="Hjem"/>
+  <String ID="4" Value="Skriv ut emnet"/>
+  <String ID="5" Value="Søkeresultater for"/>
+  <String ID="6" Value="Bokmerker"/>
+  <String ID="7" Value="Søk"/>
+  <String ID="8" Value="Oppgi søkeord..."/>
+  <String ID="9" Value="Visning"/>
+  <String ID="10" Value="Se også"/>
+  <String ID="11" Value="Innhold"/>
+  <String ID="12" Value="Nytt navn"/>
+  <String ID="13" Value="OK"/>
+  <String ID="14" Value="Avbryt"/>
+  <String ID="15" Value="Lukk"/>
+  <String ID="16" Value="Maksimer"/>
+  <String ID="17" Value="Minimer"/>
+  <String ID="18" Value="Hvordan...?"/>
+  <String ID="19" Value="Åpne"/>
+  <String ID="20" Value="Slett"/>
+  <String ID="21" Value="Gi nytt navn"/>
+  <String ID="22" Value="Mine bokmerker:"/>
+  <String ID="23" Value="Sett bokmerke på emne"/>
+  <String ID="24" Value="Lokale resultater…"/>
+  <String ID="25" Value="Resultater på nettet…"/>
+  <String ID="26" Value="Resultater lokalt og på nettet…"/>
+  <String ID="27" Value="Visning av HP-hjelp"/>
+  <String ID="28" Value="Velkommen til visning av HP-hjelp."/>
+  <String ID="29" Value="Skriv et søkeord ovenfor for å få hjelp til ditt produkt."/>
+  <String ID="30" Value="Kan ikke koble til Internett."/>
+  <String ID="31" Value="Fant ingen resultater for"/>
+  <String ID="32" Value="Utvid"/>
+  <String ID="33" Value="Reduser"/>
+  <String ID="34" Value="Gjenopprett"/>
+  <String ID="35" Value="Vent et øyeblikk..."/>
+  <String ID="36" Value="Indekserer filer. Dette kan ta litt tid, avhengig av hvor raskt systemet er."/>
+  <String ID="37" Value="Hjelp"/>
+  <String ID="38" Value="Det finnes et bokmerke for elementet fra før. Vil du overskrive det?"/>
+  <String ID="39" Value="Er du sikker på at du vil slette?"/>
+  <String ID="40" Value="Velg alle"/>
+  <String ID="41" Value="Vis kilde"/>
+  <String ID="42" Value="Skriv ut..."/>
+  <String ID="43" Value="Oppdater"/>
+  <String ID="44" Value="Egenskaper"/>
+  <String ID="51" Value="Søkealternativer"/>
+  <String ID="52" Value="Endre størrelse"/>
+  <String ID="53" Value="Det finnes et bokmerke med dette navnet fra før. Velg et annet navn."/>
+  <String ID="54" Value="Skriv ut"/>
+  <String ID="55" Value="Klipp ut"/>
+  <String ID="56" Value="Kopier"/>
+  <String ID="57" Value="Lim inn"/>
+  <String ID="58" Value="Slett"/>
+  <String ID="59" Value="Start HP-hjelp"/>
+  <String ID="60" Value="Inkluder resultater på nettet"/>
+  <String ID="61" Value="Få produktspesifikk hjelp for enkel feilsøking og løsing av problemer."/>
+  <String ID="62" Value="Du må installere den elektroniske hjelpen for å vise Hjelp-innhold her. I den elektroniske hjelpen kan du lære om bruk av skriveren og funksjoner, finne informasjon om problemløsing og merknader og informasjon om miljø, forskrifter og støtte."/>
+  <String ID="63" Value="Du kan installere den elektroniske hjelpen fra CDen med HP-programvare eller nettstedet for støtte:"/>
+  <String ID="64" Value="Når du skal installere fra CDen med HP-programvare, setter du inn CDen og starter installeringen av programvaren."/>
+  <String ID="65" Value="Hvis du skal installere fra støttenettstedet, besøker du &lt;a href=&quot;[hub_url]&quot;&gt;hp.com/support&lt;/a&gt; og laster ned programvaren “Komplett programvare og drivere”."/>
+  <String ID="66" Value="Når du ser skjermbildet som lister opp anbefalt programvare, må du passe på at alternativet “[prodName] Hjelp” er valgt."/>
+</strings>

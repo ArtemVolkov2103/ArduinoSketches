@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<strings>
+  <String ID="1" Value="Geri"/>
+  <String ID="2" Value="İleri"/>
+  <String ID="3" Value="Giriş"/>
+  <String ID="4" Value="Bu konuyu yazdır"/>
+  <String ID="5" Value="Arama sonuçları"/>
+  <String ID="6" Value="Yer İşaretleri"/>
+  <String ID="7" Value="Ara"/>
+  <String ID="8" Value="Arama terimini girin..."/>
+  <String ID="9" Value="Görüntüleyici"/>
+  <String ID="10" Value="Ayrıca Bkz"/>
+  <String ID="11" Value="İçerikler"/>
+  <String ID="12" Value="Yeni Ad"/>
+  <String ID="13" Value="Tamam"/>
+  <String ID="14" Value="İptal"/>
+  <String ID="15" Value="Kapat"/>
+  <String ID="16" Value="Ekranı Kapla"/>
+  <String ID="17" Value="Simge Durumuna Küçült"/>
+  <String ID="18" Value="Nasıl Yapılır...?"/>
+  <String ID="19" Value="Aç"/>
+  <String ID="20" Value="Sil"/>
+  <String ID="21" Value="Yeniden Adlandır"/>
+  <String ID="22" Value="Yer İşaretlerim:"/>
+  <String ID="23" Value="Konuyu yer işaretlerine ekle"/>
+  <String ID="24" Value="Yerel sonuçlar..."/>
+  <String ID="25" Value="Çevrimiçi sonuçlar..."/>
+  <String ID="26" Value="Yerel ve çevrimiçi sonuçlar..."/>
+  <String ID="27" Value="HP Yardım Görüntüleyici"/>
+  <String ID="28" Value="HP Yardım Görüntüleyici'ye hoş geldiniz."/>
+  <String ID="29" Value="Ürününüze yönelik yardım bulmak için yukarıya bir arama terimi girin."/>
+  <String ID="30" Value="Internet'e bağlanılamadı."/>
+  <String ID="31" Value="Sonuç bulunamadı"/>
+  <String ID="32" Value="Genişlet"/>
+  <String ID="33" Value="Daralt"/>
+  <String ID="34" Value="Geri Yükle"/>
+  <String ID="35" Value="Bir dakika lütfen..."/>
+  <String ID="36" Value="Dosyalar Sisteminizin hızına bağlı olarak bu işlem birkaç dakika sürebilir."/>
+  <String ID="37" Value="Yardım"/>
+  <String ID="38" Value="Bu öğe için bir Yer İşareti zaten bulunuyor. Üzerine yazmak istiyor musunuz?"/>
+  <String ID="39" Value="Silmek istediğinizden emin misiniz?"/>
+  <String ID="40" Value="Tümünü Seç"/>
+  <String ID="41" Value="Kaynağı Göster"/>
+  <String ID="42" Value="Yazdır..."/>
+  <String ID="43" Value="Yenile"/>
+  <String ID="44" Value="Özellikler"/>
+  <String ID="51" Value="Arama seçenekleri"/>
+  <String ID="52" Value="Yeniden Boyutlandır"/>
+  <String ID="53" Value="Lütfen farklı bir ad seçin. Lütfen farklı bir ad seçin."/>
+  <String ID="54" Value="Yazdır"/>
+  <String ID="55" Value="Kes"/>
+  <String ID="56" Value="Kopyala"/>
+  <String ID="57" Value="Yapıştır"/>
+  <String ID="58" Value="Sil"/>
+  <String ID="59" Value="HP yardımı başlat"/>
+  <String ID="60" Value="Çevrimiçi sonuçları göster"/>
+  <String ID="61" Value="Sorunları kolayca gidermek için ürüne özel yardım alın."/>
+  <String ID="62" Value="Buradaki Yardım içeriğini görüntülemek için elektronik Yardım'ı yüklemeniz gerekli. Yazıcı kullanımı, özellikleri, sorun giderme, bildirimler, çevresel, yasal düzenleme ve destek bilgileri hakkında elektronik Yardım'dan bilgi alın."/>
+  <String ID="63" Value="Elektronik Yardım'ı HP yazılım CD'sinden veya destek web sitesinden yükleyebilirsiniz:"/>
+  <String ID="64" Value="HP yazılım CD'sinden yüklemek için, CD'yi takın, sonra da yazılımı yüklemeye başlayın."/>
+  <String ID="65" Value="Destek web sitesinden yüklemek için, &lt;a href=&quot;[hub_url]&quot;&gt;hp.com/support&lt;/a&gt; adresini ziyaret edin, sonra da “Tam Özellikli Yazılımlar ve Sürücüler” yazılımını karşıdan yükleyin."/>
+  <String ID="66" Value="Önerilen yazılımları sıralayan ekranı gördüğünüzde, “[ürünAdı] Yardım” seçeneğinin seçili olduğundan emin olun. "/>
+</strings>

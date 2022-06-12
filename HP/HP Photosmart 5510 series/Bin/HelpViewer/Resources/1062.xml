@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<strings>
+  <String ID="1" Value="Atpakaļ"/>
+  <String ID="2" Value="Uz priekšu"/>
+  <String ID="3" Value="Sākums"/>
+  <String ID="4" Value="Drukāt šo tematu"/>
+  <String ID="5" Value="Meklēšanas rezultāti"/>
+  <String ID="6" Value="Grāmatzīmes"/>
+  <String ID="7" Value="Meklēt"/>
+  <String ID="8" Value="Ievadīt meklējamo terminu..."/>
+  <String ID="9" Value="Skatītājs"/>
+  <String ID="10" Value="Skatīt arī"/>
+  <String ID="11" Value="Saturs"/>
+  <String ID="12" Value="Jauns nosaukums"/>
+  <String ID="13" Value="Labi"/>
+  <String ID="14" Value="Atcelt"/>
+  <String ID="15" Value="Aizvērt"/>
+  <String ID="16" Value="Maksimizēt"/>
+  <String ID="17" Value="Minimizēt"/>
+  <String ID="18" Value="Kā...?"/>
+  <String ID="19" Value="Atvērt"/>
+  <String ID="20" Value="Dzēst"/>
+  <String ID="21" Value="Pārdēvēt"/>
+  <String ID="22" Value="Manas grāmatzīmes:"/>
+  <String ID="23" Value="Pievienot tematam grāmatzīmi"/>
+  <String ID="24" Value="Lokālās meklēšanas rezultāti..."/>
+  <String ID="25" Value="Tiešsaistes meklēšanas rezultāti..."/>
+  <String ID="26" Value="Lokālās un tiešsaistes meklēšanas rezultāti..."/>
+  <String ID="27" Value="HP palīdzības skatītājs"/>
+  <String ID="28" Value="Laipni lūdzam HP palīdzības skatītājā."/>
+  <String ID="29" Value="Ievadiet meklējamo terminu augstāk, lai atrastu ar jūsu produktu saistītu palīdzību."/>
+  <String ID="30" Value="Nespēja izveidot savienojumu ar internetu."/>
+  <String ID="31" Value="Netika atrasti nekādi rezultāti"/>
+  <String ID="32" Value="Izvērst"/>
+  <String ID="33" Value="Sakļaut"/>
+  <String ID="34" Value="Atjaunot"/>
+  <String ID="35" Value="Lūdzu, mikli uzgaidiet..."/>
+  <String ID="36" Value="Notiek failu indeksēšana. Atkarībā no jūsu sistēmas šī darbība var aizņemt kādu brīdi."/>
+  <String ID="37" Value="Palīdzība"/>
+  <String ID="38" Value="Šim vienumam jau eksistē grāmatzīme. Vai vēlaties to pārrakstīt?"/>
+  <String ID="39" Value="Vai esat pārliecināts, ka vēlaties to dzēst?"/>
+  <String ID="40" Value="Atzīmēt visus"/>
+  <String ID="41" Value="Skatīt avotu"/>
+  <String ID="42" Value="Drukāt..."/>
+  <String ID="43" Value="Atsvaidzināt"/>
+  <String ID="44" Value="Rekvizīti"/>
+  <String ID="51" Value="Meklēšanas opcijas"/>
+  <String ID="52" Value="Mainīt izmēru"/>
+  <String ID="53" Value="Grāmatzīme ar šādu nosaukumu jau eksistē. Lūdzu, izvēlieties citu nosaukumu."/>
+  <String ID="54" Value="Drukāt"/>
+  <String ID="55" Value="Izgriezt"/>
+  <String ID="56" Value="Kopēt"/>
+  <String ID="57" Value="Ielīmēt"/>
+  <String ID="58" Value="Dzēst"/>
+  <String ID="59" Value="Palaist HP palīdzību"/>
+  <String ID="60" Value="Iekļaut tiešsaistes meklēšanas rezultātus"/>
+  <String ID="61" Value="Saņemt ar produktu saistītu palīdzību, lai vienkārši veiktu traucējummeklēšanu un novērstu problēmas."/>
+  <String ID="62" Value="Lai palīdzības saturu skatītu šeit, jāinstalē elektroniskā palīdzība. Elektroniskajā palīdzībā iegūstiet informāciju par printera lietošanu, funkcijām, problēmu novēršanu, paziņojumiem, vidi, likuma noteikumiem un atbalstu."/>
+  <String ID="63" Value="Elektronisko palīdzību var instalēt no HP programmatūras kompaktdiska vai atbalsta vietnes:"/>
+  <String ID="64" Value="Lai instalētu no HP programmatūras kompaktdiska, ievietojiet kompaktdisku un pēc tam sāciet instalēt programmatūru."/>
+  <String ID="65" Value="Lai instalētu no atbalsta vietnes, apmeklējiet &lt;a href=&quot;[hub_url]&quot;&gt;hp.com/support&lt;/a&gt;, un pēc tam lejupielādējiet programmatūru &quot;Pilnu funkciju programmatūra un draiveri&quot;."/>
+  <String ID="66" Value="Ja redzat ekrānu ar ieteicamās programmatūras sarakstu, pārliecinieties, vai atlasīta opcija &quot;[prodName] palīdzība&quot;."/>
+</strings>

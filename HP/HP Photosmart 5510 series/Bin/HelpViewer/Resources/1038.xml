@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<strings>
+  <String ID="1" Value="Vissza"/>
+  <String ID="2" Value="Előre"/>
+  <String ID="3" Value="Otthon"/>
+  <String ID="4" Value="Témakör nyomtatása"/>
+  <String ID="5" Value="Keresési eredmények:"/>
+  <String ID="6" Value="Könyvjelzők"/>
+  <String ID="7" Value="Keresés"/>
+  <String ID="8" Value="Írja be a keresőkifejezést..."/>
+  <String ID="9" Value="Megjelenítő"/>
+  <String ID="10" Value="Lásd még"/>
+  <String ID="11" Value="Tartalomjegyzék"/>
+  <String ID="12" Value="Új név"/>
+  <String ID="13" Value="OK"/>
+  <String ID="14" Value="Mégse"/>
+  <String ID="15" Value="Bezárás"/>
+  <String ID="16" Value="Teljes méret"/>
+  <String ID="17" Value="Kis méret"/>
+  <String ID="18" Value="Hogyan csináljam?"/>
+  <String ID="19" Value="Megnyitás"/>
+  <String ID="20" Value="Törlés"/>
+  <String ID="21" Value="Átnevezés"/>
+  <String ID="22" Value="Saját könyvjelzők:"/>
+  <String ID="23" Value="Könyvjelző elhelyezése"/>
+  <String ID="24" Value="Helyi eredmények…"/>
+  <String ID="25" Value="Online eredmények..."/>
+  <String ID="26" Value="Helyi és online eredmények…"/>
+  <String ID="27" Value="HP súgómegjelenítő"/>
+  <String ID="28" Value="Üdvözli a HP súgómegjelenítő."/>
+  <String ID="29" Value="Adjon meg egy keresett kifejezést fent a termékéhez kapcsolódó súgó kereséséhez."/>
+  <String ID="30" Value="Nem sikerült csatlakozni az internethez."/>
+  <String ID="31" Value="Nem található eredmény"/>
+  <String ID="32" Value="Kibontás"/>
+  <String ID="33" Value="Összezárás"/>
+  <String ID="34" Value="Előző méret"/>
+  <String ID="35" Value="Kérjük, várjon..."/>
+  <String ID="36" Value="Fájlok indexelése. Ez a rendszer sebességétől függően akár néhány percet is igénybe vehet."/>
+  <String ID="37" Value="Súgó"/>
+  <String ID="38" Value="Ehhez az elemhez már létezik könyvjelző. Biztos, hogy felülírja?"/>
+  <String ID="39" Value="Biztosan törli?"/>
+  <String ID="40" Value="Mindet kijelöli"/>
+  <String ID="41" Value="Forrás megtekintése"/>
+  <String ID="42" Value="Nyomtatás..."/>
+  <String ID="43" Value="Frissítés"/>
+  <String ID="44" Value="Tulajdonságok"/>
+  <String ID="51" Value="Keresési beállítások"/>
+  <String ID="52" Value="Átméretezés"/>
+  <String ID="53" Value="Ilyen nevű könyvjelző már létezik. Válasszon másik nevet."/>
+  <String ID="54" Value="Nyomtatás"/>
+  <String ID="55" Value="Kivágás"/>
+  <String ID="56" Value="Másolás"/>
+  <String ID="57" Value="Beillesztés"/>
+  <String ID="58" Value="Törlés"/>
+  <String ID="59" Value="A HP súgó indítása"/>
+  <String ID="60" Value="Online eredmények is jelenjenek meg"/>
+  <String ID="61" Value="Kérjen termékspecifikus segítséget a problémák könnyű azonosítása és elhárítása érdekében."/>
+    <String ID="62" Value="A súgó tartalmának megtekintéséhez telepítse az online súgót. Az online súgóból információhoz juthat a nyomtató használatáról, a hibaelhárításról, az értesítésekről, valamint a környezetvédelmi, szabályozási és támogatási információkról."/>
+    <String ID="63" Value="Az online súgót a HP szoftver CD-jéről és a támogató webhelyről is telepítheti:"/>
+    <String ID="64" Value="A HP szoftver CD-jéről való telepítéshez helyezze be a CD-t, és kezdje el a szoftver telepítését."/>
+    <String ID="65" Value="A támogató webhelyről való telepítéshez látogassa meg a &lt;a href=&quot;[hub_url]&quot;&gt;hp.com/support&lt;/a&gt;
+ webhelyet, majd töltse le a „Teljes szoftver és illesztőprogramok” szoftvert."/>
+    <String ID="66" Value="Ha megjelenik a javasolt szoftvereket felsoroló képernyő, jelölje ki a „[prodName] súgó” lehetőséget. "/>
+</strings>

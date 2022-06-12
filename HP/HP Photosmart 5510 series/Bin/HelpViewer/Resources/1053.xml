@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<strings>
+  <String ID="1" Value="Tillbaka"/>
+  <String ID="2" Value="Framåt"/>
+  <String ID="3" Value="Hem"/>
+  <String ID="4" Value="Skriv ut det här avsnittet"/>
+  <String ID="5" Value="Sökresultat för"/>
+  <String ID="6" Value="Bokmärken"/>
+  <String ID="7" Value="Sök"/>
+  <String ID="8" Value="Ange sökord..."/>
+  <String ID="9" Value="Visning"/>
+  <String ID="10" Value="Se även"/>
+  <String ID="11" Value="Innehåll"/>
+  <String ID="12" Value="Nytt namn"/>
+  <String ID="13" Value="OK"/>
+  <String ID="14" Value="Avbryt"/>
+  <String ID="15" Value="Stäng"/>
+  <String ID="16" Value="Maximera"/>
+  <String ID="17" Value="Minimera"/>
+  <String ID="18" Value="Hur gör jag?"/>
+  <String ID="19" Value="Öppna"/>
+  <String ID="20" Value="Radera"/>
+  <String ID="21" Value="Byt namn"/>
+  <String ID="22" Value="Mina bokmärken:"/>
+  <String ID="23" Value="Märk avsnittet med ett bokmärke"/>
+  <String ID="24" Value="Lokala resultat…"/>
+  <String ID="25" Value="Online-resultat..."/>
+  <String ID="26" Value="Resultat lokalt och online..."/>
+  <String ID="27" Value="HP Hjälpvisning"/>
+  <String ID="28" Value="Välkommen till HP Hjälpvisning."/>
+  <String ID="29" Value="Ange ett sökord ovan för att hitta hjälp för din produkt."/>
+  <String ID="30" Value="Kan inte ansluta till internet."/>
+  <String ID="31" Value="Hittar inga resultat för"/>
+  <String ID="32" Value="Expandera"/>
+  <String ID="33" Value="Komprimera"/>
+  <String ID="34" Value="Återställ"/>
+  <String ID="35" Value="Ett ögonblick..."/>
+  <String ID="36" Value="Indexerar filer. Detta kan ta en stund beroende på hur snabbt ditt system är."/>
+  <String ID="37" Value="Hjälp"/>
+  <String ID="38" Value="Det här objektet har redan ett bokmärke. Vill du skriva över det?"/>
+  <String ID="39" Value="Vill du verkligen radera?"/>
+  <String ID="40" Value="Markera allt"/>
+  <String ID="41" Value="Visa källan"/>
+  <String ID="42" Value="Skriv ut..."/>
+  <String ID="43" Value="Uppdatera"/>
+  <String ID="44" Value="Egenskaper"/>
+  <String ID="51" Value="Sökalternativ"/>
+  <String ID="52" Value="Ändra storlek"/>
+  <String ID="53" Value="Det finns redan ett bokmärke med det namnet. Välj ett annat namn."/>
+  <String ID="54" Value="Skriv ut"/>
+  <String ID="55" Value="Klipp ut"/>
+  <String ID="56" Value="Kopiera"/>
+  <String ID="57" Value="Klistra in"/>
+  <String ID="58" Value="Radera"/>
+  <String ID="59" Value="Visa HP-hjälp"/>
+  <String ID="60" Value="Inkludera online-resultat"/>
+  <String ID="61" Value="Få produktspecifik hjälp med att felsöka och åtgärda problem."/>
+  <String ID="62" Value="För att kunna se hjälpinnehållet här måste du installera den elektroniska hjälpen. I den elektroniska hjälpen kan du läsa mer om skrivaranvändning, funktioner, felsökning, aviseringar, miljö, regler och support."/>
+  <String ID="63" Value="Du kan installera den elektroniska hjälpen från CDn med HP-programvara eller från supportwebbplatsen:"/>
+  <String ID="64" Value="Om du vill installera från CDn med HP-programvara sätter du i denna CD och startar sedan installationen."/>
+  <String ID="65" Value="Om du vill installera från supportwebbplatsen går du till &lt;a href=&quot;[hub_url]&quot;&gt;hp.com/support&lt;/a&gt; och laddar ned “programvara och drivrutiner med full funktionalitet”."/>
+  <String ID="66" Value="När du ser skärmen med listan över rekommenderad programvara ska du kontrollera att alternativet “Hjälp för [prodName]” är markerat."/>
+</strings>

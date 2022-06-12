@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<strings>
+  <String ID="1" Value="הקודם"/>
+  <String ID="2" Value="העברה"/>
+  <String ID="3" Value="דף בית"/>
+  <String ID="4" Value="הדפס נושא זה"/>
+  <String ID="5" Value="חפש תוצאות עבור"/>
+  <String ID="6" Value="סימניות"/>
+  <String ID="7" Value="חיפוש"/>
+  <String ID="8" Value="הזן מונח לחיפוש..."/>
+  <String ID="9" Value="מציג"/>
+  <String ID="10" Value="ראה בנוסף"/>
+  <String ID="11" Value="תוכן"/>
+  <String ID="12" Value="שם חדש"/>
+  <String ID="13" Value="אישור"/>
+  <String ID="14" Value="ביטול"/>
+  <String ID="15" Value="סגור"/>
+  <String ID="16" Value="הגדל"/>
+  <String ID="17" Value="מזער"/>
+  <String ID="18" Value="כיצד ניתן לבצע...?"/>
+  <String ID="19" Value="פתח"/>
+  <String ID="20" Value="מחיקה"/>
+  <String ID="21" Value="שנה שם"/>
+  <String ID="22" Value="הסימניות שלי:"/>
+  <String ID="23" Value="סמן את הנושא"/>
+  <String ID="24" Value="תוצאות מקומיות..."/>
+  <String ID="25" Value="תוצאות מקוונות..."/>
+  <String ID="26" Value="תוצאות מקומיות ומקוונות…"/>
+  <String ID="27" Value="HP Help Viewer"/>
+  <String ID="28" Value="ברוך הבא ל-מציג העזרה של HP"/>
+  <String ID="29" Value="הזן ערך לחיפוש למעלה כדי למצוא עזרה עבור המוצר שלך."/>
+  <String ID="30" Value="לא ניתן להתחבר לאינטרנט."/>
+  <String ID="31" Value="לא נמצאו תוצאות עבור"/>
+  <String ID="32" Value="הרחב"/>
+  <String ID="33" Value="כווץ"/>
+  <String ID="34" Value="שחזר"/>
+  <String ID="35" Value="המתן כמה שניות..."/>
+  <String ID="36" Value="ממפתח קבצים.פעולה זו עשויה להימשך מספר רגעים, בהתאם למהירות המערכת שלך."/>
+  <String ID="37" Value="עזרה"/>
+  <String ID="38" Value="קיימת כבר סימניה לפריט זה.האם ברצונך להחליף אותה?"/>
+  <String ID="39" Value="האם אתה בטוח ברצונך למחוק?"/>
+  <String ID="40" Value="בחר הכל"/>
+  <String ID="41" Value="תצוגת מקור"/>
+  <String ID="42" Value="הדפסה..."/>
+  <String ID="43" Value="רענן"/>
+  <String ID="44" Value="מאפיינים"/>
+  <String ID="51" Value="אפשרויות חיפוש"/>
+  <String ID="52" Value="שינוי גודל"/>
+  <String ID="53" Value="קיימת כבר סימניה בשם זה. בחר שם אחר."/>
+  <String ID="54" Value="הדפסה"/>
+  <String ID="55" Value="גזור"/>
+  <String ID="56" Value="העתק"/>
+  <String ID="57" Value="הדבק"/>
+  <String ID="58" Value="מחיקה"/>
+  <String ID="59" Value="הצג את העזרה של HP"/>
+  <String ID="60" Value="כלול תוצאות מקוונות"/>
+  <String ID="61" Value="קבל עזרה ספציפית למוצר כדי לגלות ולפתור בעיות בקלות."/>
+  <String ID="62" Value="עליך להתקין את העזרה האלקטרונית כדי להציג כאן את תוכן העזרה. היעזר בעזרה האלקטרונית כדי לקבל מידע אודות השימוש במדפסת, המאפיינים, פתרון בעיות, הודעות, סביבה ותקינה ומידע תמיכה."/>
+  <String ID="63" Value="באפשרותך להתקין את העזרה האלקטרונית מתוך תקליטור התוכנה של HP או מאתר התמיכה:"/>
+  <String ID="64" Value="להתקנה מתוך תקליטור התוכנה של HP, הכנס את התקליטור והתחל בהתקנת התוכנה."/>
+  <String ID="65" Value="להתקנה מאתר התמיכה, בקר בכתובת  &lt;a href=&quot;[hub_url]&quot;&gt;hp.com/support&lt;/a&gt;
+ , והורד את התוכנה &quot;תוכנות ומנהלי התקן עם כל המאפיינים&quot;."/>
+  <String ID="66" Value="כשמוצג מסך המפרט תוכנות מומלצות, ודא שהאפשרות &quot;עזרה של [prodName]&quot;"/>   
+</strings>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<strings>
+  <String ID="1" Value="Natrag"/>
+  <String ID="2" Value="Naprijed"/>
+  <String ID="3" Value="Početna stranica"/>
+  <String ID="4" Value="Ispiši ovu temu"/>
+  <String ID="5" Value="Rezultati pretraživanja za"/>
+  <String ID="6" Value="Knjižne oznake"/>
+  <String ID="7" Value="Pretraživanje"/>
+  <String ID="8" Value="Unesite traženi pojam…"/>
+  <String ID="9" Value="Preglednik"/>
+  <String ID="10" Value="Vidi i"/>
+  <String ID="11" Value="Sadržaj"/>
+  <String ID="12" Value="Novi naziv"/>
+  <String ID="13" Value="U redu"/>
+  <String ID="14" Value="Odustani"/>
+  <String ID="15" Value="Zatvori"/>
+  <String ID="16" Value="Maksimiziraj"/>
+  <String ID="17" Value="Minimiziraj"/>
+  <String ID="18" Value="Kako… ?"/>
+  <String ID="19" Value="Otvori"/>
+  <String ID="20" Value="Izbriši"/>
+  <String ID="21" Value="Preimenuj"/>
+  <String ID="22" Value="Moje knjižne oznake:"/>
+  <String ID="23" Value="Tema knjižnih oznaka"/>
+  <String ID="24" Value="Lokalni rezultati…"/>
+  <String ID="25" Value="Internetski rezultati…"/>
+  <String ID="26" Value="Lokalni i internetski rezultati…"/>
+  <String ID="27" Value="HP-ov preglednik pomoći"/>
+  <String ID="28" Value="Dobro došli u HP-ov preglednik pomoći."/>
+  <String ID="29" Value="Gore unesite traženi pojam da biste pronašli proizvod."/>
+  <String ID="30" Value="Nije moguće povezati se s internetom."/>
+  <String ID="31" Value="Nema rezultata za"/>
+  <String ID="32" Value="Proširi"/>
+  <String ID="33" Value="Sažmi"/>
+  <String ID="34" Value="Vrati"/>
+  <String ID="35" Value="Pričekajte trenutak…"/>
+  <String ID="36" Value="Indeksiranje datoteka.To će malo potrajati, ovisno o brzini vašeg sustava."/>
+  <String ID="37" Value="Pomoć"/>
+  <String ID="38" Value="Za tu stavku već postoji knjižna oznaka. Želite li je prebrisati?"/>
+  <String ID="39" Value="Jeste li sigurni da je želite izbrisati?"/>
+  <String ID="40" Value="Odaberi sve"/>
+  <String ID="41" Value="Prikaži izvor"/>
+  <String ID="42" Value="Ispiši…"/>
+  <String ID="43" Value="Osvježi"/>
+  <String ID="44" Value="Svojstva"/>
+  <String ID="51" Value="Mogućnosti pretraživanja"/>
+  <String ID="52" Value="Promijeni veličinu"/>
+  <String ID="53" Value="Knjižna oznaka s tim nazivom već postoji. Odaberite neki drugi naziv."/>
+  <String ID="54" Value="Ispiši"/>
+  <String ID="55" Value="Izreži"/>
+  <String ID="56" Value="Kopiraj"/>
+  <String ID="57" Value="Zalijepi"/>
+  <String ID="58" Value="Izbriši"/>
+  <String ID="59" Value="Pokreni HP-ovu pomoć"/>
+  <String ID="60" Value="Uključi internetske rezultate"/>
+  <String ID="61" Value="Pristupite sustavu pomoći za određeni proizvod da biste otklonili i riješili probleme."/>
+    <String ID="62" Value="Morate instalirati elektroničku pomoć da biste mogli pregledati ovaj sadržaj pomoći. Upoznajte se s korištenjem pisača, njegovim značajkama, obavijestima, informacijama o zaštiti okoliša te regulatornim informacijama i informacijama za podršku putem elektroničke pomoći."/>
+    <String ID="63" Value="Elektroničku pomoć možete instalirati s HP-ovog softverskog CD-a ili web-mjesta za podršku:"/>
+    <String ID="64" Value="Da biste instalirali s HP-ova softverskog CD-a, umetnite CD, a potom započnite instalaciju softvera."/>
+    <String ID="65" Value="Da biste instalirali s web-mjesta za podršku, posjetite &lt;a href=&quot;[hub_url]&quot;&gt;hp.com/support&lt;/a&gt;
+, a potom preuzmite softver &quot;Softver s punim značajkama i upravljački programi&quot;."/>
+    <String ID="66" Value="Kada ugledate zaslon s popisom preporučenog softvera, provjerite je li odabrana mogućnost pomoći &quot;[prodName] Pomoć&quot;. "/>
+</strings>

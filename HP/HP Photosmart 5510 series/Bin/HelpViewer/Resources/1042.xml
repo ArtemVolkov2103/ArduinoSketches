@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<strings>
+  <String ID="1" Value="뒤로"/>
+  <String ID="2" Value="전달"/>
+  <String ID="3" Value="홈"/>
+  <String ID="4" Value="이 항목 인쇄"/>
+  <String ID="5" Value="검색 대상"/>
+  <String ID="6" Value="책갈피"/>
+  <String ID="7" Value="검색"/>
+  <String ID="8" Value="검색 조건 입력..."/>
+  <String ID="9" Value="뷰어"/>
+  <String ID="10" Value="참조"/>
+  <String ID="11" Value="콘텐츠"/>
+  <String ID="12" Value="새 이름"/>
+  <String ID="13" Value="확인"/>
+  <String ID="14" Value="취소"/>
+  <String ID="15" Value="닫기"/>
+  <String ID="16" Value="최대화"/>
+  <String ID="17" Value="최소화"/>
+  <String ID="18" Value="사용 방법"/>
+  <String ID="19" Value="열기"/>
+  <String ID="20" Value="삭제"/>
+  <String ID="21" Value="이름 바꾸기"/>
+  <String ID="22" Value="내 책갈피:"/>
+  <String ID="23" Value="항목에 책갈피 적용"/>
+  <String ID="24" Value="로컬 결과..."/>
+  <String ID="25" Value="온라인 결과..."/>
+  <String ID="26" Value="로컬 및 온라인 결과..."/>
+  <String ID="27" Value="HP 도움말 뷰어"/>
+  <String ID="28" Value="HP 도움말 뷰어를 시작합니다."/>
+  <String ID="29" Value="제품 도움말을 찾으려면 검색어를 입력합니다."/>
+  <String ID="30" Value="인터넷에 연결할 수 없습니다."/>
+  <String ID="31" Value="다음의 결과를 찾지 못했습니다."/>
+  <String ID="32" Value="확장"/>
+  <String ID="33" Value="축소"/>
+  <String ID="34" Value="복원"/>
+  <String ID="35" Value="잠시 기다려주십시오..."/>
+  <String ID="36" Value="파일을 인덱싱하는 중입니다. 시스템 속도에 따라 어느 정도 시간이 소요될 수 있습니다."/>
+  <String ID="37" Value="도움말"/>
+  <String ID="38" Value="이 항목에 대해서는 이미 채갈피가 존재합니다. 덮어쓰시겠습니까?"/>
+  <String ID="39" Value="정말 삭제하겠습니까?"/>
+  <String ID="40" Value="모두 선택"/>
+  <String ID="41" Value="소스 보기"/>
+  <String ID="42" Value="인쇄..."/>
+  <String ID="43" Value="새로고침"/>
+  <String ID="44" Value="등록 정보"/>
+  <String ID="51" Value="검색 옵션"/>
+  <String ID="52" Value="크기 바꾸기"/>
+  <String ID="53" Value="이름이 동일한 책갈피가 이미 존재합니다. 다른 이름을 선택하십시오."/>
+  <String ID="54" Value="인쇄"/>
+  <String ID="55" Value="자르기"/>
+  <String ID="56" Value="복사"/>
+  <String ID="57" Value="붙여넣기"/>
+  <String ID="58" Value="삭제"/>
+  <String ID="59" Value="HP 도움말 실행"/>
+  <String ID="60" Value="온라인 결과 포함"/>
+  <String ID="61" Value="제품별 도움말을 찾아 손쉽게 문제를 해결할 수 있습니다."/>
+    <String ID="62" Value="여기서 도움말 내용을 보려면 전자 도움말을 설치해야 합니다. 전자 도움말에서 프린터 사용, 기능, 문제 해결, 알림, 환경, 규정 및 지원 정보를 알아봅니다."/>
+    <String ID="63" Value="HP 소프트웨어 CD 또는 지원 웹 사이트에서 전자 도움말을 설치할 수 있습니다."/>
+    <String ID="64" Value="HP 소프트웨어 CD에서 설치하려면 CD를 삽입한 후 소프트웨어 설치를 시작합니다."/>
+    <String ID="65" Value="지원 웹 사이트를 통해 설치하려면 &lt;a href=&quot;[hub_url]&quot;&gt;hp.com/support&lt;/a&gt; 를 방문하여 “전체 기능 소프트웨어와 드라이버” 소프트웨어를 다운로드합니다."/>
+    <String ID="66" Value="화면 목록의 권장 소프트웨어를 확인할 경우 “[prodName] 도움말” 옵션이 선택되어 있는지 확인하십시오. "/>
+</strings>

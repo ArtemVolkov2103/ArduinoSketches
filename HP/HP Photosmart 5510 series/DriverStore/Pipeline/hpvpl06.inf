@@ -1,0 +1,134 @@
+[HP.NTx86.5.1]
+"HP Photosmart 5510 series"=INSTALL_5510_XP,USBPRINT\HPPhotosmart_5510_seD1FA
+"HP Photosmart 5510 series"=INSTALL_5510_XP,MF\Photosmart_5510_series&WSD&IP_PRINT
+[HP.NTx86.6.0]
+"HP Photosmart 5510 series"=INSTALL_5510_VISTA,USBPRINT\HPPhotosmart_5510_seD1FA
+"HP Photosmart 5510 series"=INSTALL_5510_VISTA,WSDPRINT\HPPhotosmart_5510_seD1FA
+"HP Photosmart 5510 series"=INSTALL_5510_VISTA,MF\Photosmart_5510_series&WSD&IP_PRINT
+[HP.NTamd64.5.2]
+[HP.NTamd64.6.0]
+"HP Photosmart 5510 series"=INSTALL_5510_VISTA,USBPRINT\HPPhotosmart_5510_seD1FA
+"HP Photosmart 5510 series"=INSTALL_5510_VISTA,WSDPRINT\HPPhotosmart_5510_seD1FA
+"HP Photosmart 5510 series"=INSTALL_5510_VISTA,MF\Photosmart_5510_series&WSD&IP_PRINT
+[Version]
+Signature="$Windows NT$"
+Provider=%HP%
+ClassGUID={4D36E979-E325-11CE-BFC1-08002BE10318}
+Class=Printer
+CatalogFile=hpvpl06.cat
+DriverVer=05/12/2011,06.62.00.0975
+DriverIsolation=0
+[Manufacturer]
+%HP%=HP, NTx86.5.1, NTx86.6.0, NTamd64.5.2, NTamd64.6.0
+[HP]
+[INSTALL_5510_XP]
+CopyFiles=@hpps_5510.gpd
+CopyFiles=@HPMACRONAMES.gpd
+CopyFiles=@hpvpl06.ini
+CopyFiles=HP_PIPELINE,UNI3,ADOBE_RGB
+DataFile=hpps_5510.gpd
+DataSection=HP_UNIDRV_DATA
+CopyFiles=COINST_FILES
+CopyFiles=LM_FILES_XP
+CopyINF=HPRestStub.inf, HPWia_PS5510.inf
+LanguageMonitor="HP a111 Status Monitor,hpinkstsa111LM.dll"
+[INSTALL_5510_VISTA]
+CopyFiles=@hpps_5510.gpd
+CopyFiles=@HPMACRONAMES.gpd
+CopyFiles=@hpvpl06.ini
+CopyFiles=HP_PIPELINE,UNI3,ADOBE_RGB
+DataFile=hpps_5510.gpd
+DataSection=HP_UNIDRV_DATA
+CopyFiles=COINST_FILES
+CopyFiles=LM_FILES
+CopyINF=HPRestStub.inf, HPWia_PS5510.inf
+LanguageMonitor="HP a111 Status Monitor,hpinkstsa111LM.dll"
+[HP_PIPELINE]
+hpinkstsa111LM.dll
+hpinkstsa111.dll
+hpvpldrv06.dll
+hpvplui06.dll
+hpfime51.dll
+hpvplres06.dll
+copyright.txt
+[UNI3]
+unidrv.dll
+unidrvui.dll
+unires.dll
+unidrv.hlp
+locale.gpd
+stdnames.gpd
+[HP_UNIDRV_DATA]
+DriverFile=UNIDRV.DLL
+ConfigFile=UNIDRVUI.DLL
+HelpFile=UNIDRV.HLP
+[ADOBE_RGB]
+Adobe RGB (1998) D65 WP 2.2 Gamma.icc,hpvplargb.icc,,0x00000020
+[SourceDisksNames]
+100=%HPDisk%
+101=%HPDisk%,,,\i386
+102=%HPDisk%,,,\amd64
+[SourceDisksFiles]
+hpps_5510.gpd=100
+HPMACRONAMES.gpd=100
+hpvpl06.ini=100
+locale.gpd=100
+stdnames.gpd=100
+hpvplargb.icc=100
+[SourceDisksFiles.x86]
+hpvpldrv06.dll=101
+hpvplui06.dll=101
+hpfime51.dll=101
+hpvplres06.dll=101
+copyright.txt=101
+unidrv.dll=101
+unidrvui.dll=101
+unires.dll=101
+unidrv.hlp=101
+hpinkcoia111.dll=101
+hpinkstsa111LM.dll=101
+hpinkstsa111.dll=101
+[SourceDisksFiles.amd64]
+hpvpldrv06.dll=102
+hpvplui06.dll=102
+hpfime51.dll=102
+hpvplres06.dll=102
+copyright.txt=102
+unidrv.dll=102
+unidrvui.dll=102
+unires.dll=102
+unidrv.hlp=102
+hpinkcoia111.dll=102
+hpinkstsa111LM.dll=102
+hpinkstsa111.dll=102
+[DestinationDirs]
+DefaultDestDir=66000
+ADOBE_RGB=66003
+COINST_FILES=11             ; Copy CoInstaller files to system32
+LM_FILES=66002              ; Copy LM files to driver folder for Vista and beyond
+LM_FILES_XP=66002
+[Strings]
+HP="Hewlett-Packard"
+HPDisk="HP CD"
+[INSTALL_5510_XP.CoInstallers]
+AddReg=hp_CoInstaller_P5510_addReg
+CopyFiles=COINST_FILES
+[INSTALL_5510_XP.Services]
+AddService=,2    ; no value for the service name
+[INSTALL_5510_VISTA.CoInstallers]
+AddReg=hp_CoInstaller_P5510_addReg
+CopyFiles=COINST_FILES
+[INSTALL_5510_VISTA.Services]
+AddService=,2    ; no value for the service name
+[hp_CoInstaller_P5510_addReg]
+HKR,,CoInstallers32,0x00010000,"hpinkcoia111.dll,CoDeviceInstall"
+HKR,,SoftwareRegPath,,"Software\HP\InstalledProducts\{A7167E91-2D88-DD55-CA3F-49FE9E54CBC2}"
+[SourceInfo]
+SourceDirectory=%1%
+[COINST_FILES]
+hpinkcoia111.dll
+[LM_FILES]
+hpinkstsa111LM.dll
+[LM_FILES_XP]
+hpinkstsa111LM.dll
+hpinkstsa111.dll

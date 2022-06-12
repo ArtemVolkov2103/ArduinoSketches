@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<strings>
+  <String ID="1" Value="Înapoi"/>
+  <String ID="2" Value="Mai departe"/>
+  <String ID="3" Value="Ecran iniţial"/>
+  <String ID="4" Value="Imprimă această temă"/>
+  <String ID="5" Value="Rezultatele căutării pentru"/>
+  <String ID="6" Value="Semne de carte"/>
+  <String ID="7" Value="Căutare"/>
+  <String ID="8" Value="Introduceţi termenul de căutare..."/>
+  <String ID="9" Value="Ecran"/>
+  <String ID="10" Value="Citiţi de asemenea"/>
+  <String ID="11" Value="Cuprins"/>
+  <String ID="12" Value="Nume nou"/>
+  <String ID="13" Value="OK"/>
+  <String ID="14" Value="Revocare"/>
+  <String ID="15" Value="Închidere"/>
+  <String ID="16" Value="Maximizare"/>
+  <String ID="17" Value="Minimizare"/>
+  <String ID="18" Value="Cum pot să...?"/>
+  <String ID="19" Value="Deschidere"/>
+  <String ID="20" Value="Ştergere"/>
+  <String ID="21" Value="Redenumire"/>
+  <String ID="22" Value="Semnele mele de carte:"/>
+  <String ID="23" Value="Semn de carte pt. această temă"/>
+  <String ID="24" Value="Rezultate locale..."/>
+  <String ID="25" Value="Rezultate online..."/>
+  <String ID="26" Value="Rezultate locale şi online..."/>
+  <String ID="27" Value="Ecran Ajutor HP"/>
+  <String ID="28" Value="Bun venit la Ecranul de Ajutor HP"/>
+  <String ID="29" Value="Introduceţi un termen de căutare mai sus pentru a găsi informaţii privind produsul dvs."/>
+  <String ID="30" Value="Imposibil de conectat la Internet."/>
+  <String ID="31" Value="Niciun rezultat găsit pentru"/>
+  <String ID="32" Value="Desfăşurare"/>
+  <String ID="33" Value="Restrângere"/>
+  <String ID="34" Value="Restabilire"/>
+  <String ID="35" Value="Un moment..."/>
+  <String ID="36" Value="Se indexează fişierele. Acest lucru poate dura câteva momente, în funcţie de viteza sistemului."/>
+  <String ID="37" Value="Ajutor"/>
+  <String ID="38" Value="Există deja un semn de carte pentru acest element. Doriţi să îl suprascrieţi?"/>
+  <String ID="39" Value="Sigur doriţi să ştergeţi?"/>
+  <String ID="40" Value="Selectare totală"/>
+  <String ID="41" Value="Vizualizare sursă"/>
+  <String ID="42" Value="Imprimare"/>
+  <String ID="43" Value="Reîmprospătare"/>
+  <String ID="44" Value="Proprietăţi"/>
+  <String ID="51" Value="Opţiuni căutare"/>
+  <String ID="52" Value="Redimensionare"/>
+  <String ID="53" Value="Există deja un semn de carte cu acest nume. Alegeţi un alt nume."/>
+  <String ID="54" Value="Imprimare"/>
+  <String ID="55" Value="Decupare"/>
+  <String ID="56" Value="Copiere"/>
+  <String ID="57" Value="Lipire"/>
+  <String ID="58" Value="Ştergere"/>
+  <String ID="59" Value="Lansare Ajutor HP"/>
+  <String ID="60" Value="Include rezultatele online"/>
+  <String ID="61" Value="Obţineţi ajutor specific produsului pentru a putea remedia uşor problemele."/>
+    <String ID="62" Value="Trebuie să instalaţi meniul Ajutor în format electronic pentru a vizualiza aici conţinutul meniului Ajutor. În meniul Ajutor in format electronic aflaţi despre utilizarea imprimantei, caracteristici, depanare, notificări, mediu, reglementare şi găsiţi informaţii despre asistenţă."/>
+    <String ID="63" Value="Puteţi instala meniul Ajutor în format electronic de pe CD-ul cu software-ul HP sau de pe site-ul Web de asistenţă:"/>
+    <String ID="64" Value="Pentru a instala de pe CD-ul cu software-ul HP, introduceţi CD-ul şi porniţi instalarea software-ului."/>
+    <String ID="65" Value="Pentru a instala de pe site-ul Web de asistenţă, vizitaţi &lt;a href=&quot;[hub_url]&quot;&gt;hp.com/support&lt;/a&gt;
+ şi descărcaţi software-ul „Software şi drivere complete”."/>
+    <String ID="66" Value="Când vizualizaţi în lista de pe ecran software-ul recomandat, asiguraţi-vă că aţi selectat opţiunea „Ajutor [prodName]”."/>
+</strings>

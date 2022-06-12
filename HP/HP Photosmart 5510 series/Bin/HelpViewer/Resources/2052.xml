@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<strings>
+  <String ID="1" Value="上一步"/>
+  <String ID="2" Value="前进"/>
+  <String ID="3" Value="主页"/>
+  <String ID="4" Value="打印此主题"/>
+  <String ID="5" Value="搜索结果"/>
+  <String ID="6" Value="书签"/>
+  <String ID="7" Value="搜索"/>
+  <String ID="8" Value="请输入搜索术语..."/>
+  <String ID="9" Value="查看器"/>
+  <String ID="10" Value="另请参阅"/>
+  <String ID="11" Value="内容"/>
+  <String ID="12" Value="新建名称"/>
+  <String ID="13" Value="确定"/>
+  <String ID="14" Value="取消"/>
+  <String ID="15" Value="关闭"/>
+  <String ID="16" Value="最大化"/>
+  <String ID="17" Value="最小化"/>
+  <String ID="18" Value="如何...?"/>
+  <String ID="19" Value="打开"/>
+  <String ID="20" Value="删除"/>
+  <String ID="21" Value="重命名"/>
+  <String ID="22" Value="我的书签:"/>
+  <String ID="23" Value="书签主题"/>
+  <String ID="24" Value="本地结果..."/>
+  <String ID="25" Value="在线结果..."/>
+  <String ID="26" Value="本地和在线结果..."/>
+  <String ID="27" Value="HP 帮助查看器"/>
+  <String ID="28" Value="欢迎使用 HP 帮助查看器。"/>
+  <String ID="29" Value="在上面输入搜索术语可查找产品帮助。"/>
+  <String ID="30" Value="无法连接到 Internet。"/>
+  <String ID="31" Value="未找到任何结果"/>
+  <String ID="32" Value="展开"/>
+  <String ID="33" Value="折叠"/>
+  <String ID="34" Value="还原"/>
+  <String ID="35" Value="请稍侯..."/>
+  <String ID="36" Value="正在创建文件索引。 视系统速度而定，此过程可能会花费一些时间。"/>
+  <String ID="37" Value="帮助"/>
+  <String ID="38" Value="此项目的书签已存在。 要覆盖它吗?"/>
+  <String ID="39" Value="确实要删除吗?"/>
+  <String ID="40" Value="全选"/>
+  <String ID="41" Value="查看源"/>
+  <String ID="42" Value="打印..."/>
+  <String ID="43" Value="刷新"/>
+  <String ID="44" Value="属性"/>
+  <String ID="51" Value="搜索选项"/>
+  <String ID="52" Value="调整尺寸"/>
+  <String ID="53" Value="此名称的书签已存在。 请选择不同的名称。"/>
+  <String ID="54" Value="打印"/>
+  <String ID="55" Value="剪切"/>
+  <String ID="56" Value="复制"/>
+  <String ID="57" Value="粘贴"/>
+  <String ID="58" Value="删除"/>
+  <String ID="59" Value="启动 HP 帮助"/>
+  <String ID="60" Value="包括在线结果"/>
+  <String ID="61" Value="获取特定产品的帮助以轻松地排解疑难和修复问题。"/>
+  <String ID="62" Value="必须安装电子版帮助才能查看此处的帮助内容。 通过电子版帮助，可了解有关打印机的使用、功能、疑难排解、通告、环境、管制和支持信息。"/>
+  <String ID="63" Value="您可以从 HP 软件 CD 或支持网站安装电子版帮助:"/>
+  <String ID="64" Value="要从 HP 软件 CD 进行安装，请插入 CD，然后开始安装软件。"/>
+  <String ID="65" Value="要从支持网站进行安装，请访问 &lt;a href=&quot;[hub_url]&quot;&gt;hp.com/support&lt;/a&gt;，然后下载“全功能软件和驱动程序”软件。"/>
+  <String ID="66" Value="显示列出推荐软件的屏幕时，请确保已选择“[prodName] 帮助”选项。"/>
+</strings>

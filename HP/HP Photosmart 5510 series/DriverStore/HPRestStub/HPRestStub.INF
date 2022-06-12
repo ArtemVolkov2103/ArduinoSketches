@@ -1,0 +1,93 @@
+;/*++
+;
+;Copyright (c) 2009. Hewlett-Packard Company. All rights reserved. 
+;
+;
+; ----- DO NOT MODIFY HEADER TEXT ABOVE THIS LINE! ------------ 
+;--*/
+[Version]
+Signature="$Windows NT$"
+Class=USB
+ClassGUID={36FC9E60-C465-11CF-8056-444553540000}
+Provider=%Provider%
+CatalogFile.NTX86=HPRestStubx86.CAT
+CatalogFile.NTAMD64=HPRestStubx64.CAT
+DriverVer=11/10/2009, 01.00.00.00	
+;====================================================
+
+[DestinationDirs]
+; By default, files will be copied to \windows\system.
+DefaultDestDir=11
+
+[ControlFlags]
+; Remove comment from this line if all devices are PnP.
+ExcludeFromSelect=*
+
+[Manufacturer]
+%Mfg%=Models,NTamd64.6,NTx86.5.1,NTx86.6,NTamd64.5.2
+
+; Windows 2K is not supported
+[Models]
+;; ; No support for Windows 2000
+
+; Windows XP
+[Models.NTx86.5.1]
+"HP Photosmart 5510 series (REST)"=DMR.USB, USB\vid_03f0&pid_a111&mi_03
+
+[Models.NTamd64.5.2]
+"HP Photosmart 5510 series (REST)"=DMR.USB, USB\vid_03f0&pid_a111&mi_03
+
+[Models.NTx86.6]
+"HP Photosmart 5510 series (REST)"=DMR.USB, USB\vid_03f0&pid_a111&mi_03
+
+; Windows x64
+[Models.NTamd64.6]
+"HP Photosmart 5510 series (REST)"=DMR.USB, USB\vid_03f0&pid_a111&mi_03
+
+; *****************************************************************************************
+;           Windows XP (Whistler) and later
+; *****************************************************************************************
+
+[DMR.Usb]
+Include=sti.inf
+Needs=STI.USBSection
+SubClass=StillImage
+DeviceType=1
+Capabilities=0x0
+AddReg=DMR.UsbReg
+CopyFiles=Nothing
+;CopyINF=hpvpl05.inf
+
+[DMR.Usb.Services]
+Include=sti.inf
+Needs=STI.USBSection.Services
+AddService=,2 
+
+[DMR.Usb.HW]
+AddReg=REST.Reg
+
+[REST.Reg]
+HKR,,REST,0x00010001,0x1
+
+
+[DMR.UsbReg]
+; This all depends on which kernel services you need
+; Hardware configuration is not known
+HKR,,HardwareConfig,1,1
+HKR,,DevLoader,,*NTKERN
+HKR,,NTMPDriver,,"usbscan.sys"
+
+[SourceDisksNames]
+1 = %CD%,,,
+
+[SourceDisksFiles]
+
+[Nothing]
+
+[Strings]
+; Always put strings down here so they can be easily localized to
+; other languages.
+
+Provider="Hewlett-Packard"
+Mfg="Hewlett-Packard"
+CD="hp cd"

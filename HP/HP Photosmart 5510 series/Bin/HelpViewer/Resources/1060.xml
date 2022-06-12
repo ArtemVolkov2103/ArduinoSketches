@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<strings>
+  <String ID="1" Value="Nazaj"/>
+  <String ID="2" Value="Naprej"/>
+  <String ID="3" Value="Domov"/>
+  <String ID="4" Value="Natisni to temo"/>
+  <String ID="5" Value="Išči rezultate za"/>
+  <String ID="6" Value="Zaznamki"/>
+  <String ID="7" Value="Iskanje"/>
+  <String ID="8" Value="Vnesite iskani izraz ..."/>
+  <String ID="9" Value="Pregledovalnik"/>
+  <String ID="10" Value="Glejte tudi"/>
+  <String ID="11" Value="Vsebina"/>
+  <String ID="12" Value="Novo ime"/>
+  <String ID="13" Value="V redu"/>
+  <String ID="14" Value="Prekliči"/>
+  <String ID="15" Value="Zapri"/>
+  <String ID="16" Value="Povečaj"/>
+  <String ID="17" Value="Pomanjšaj"/>
+  <String ID="18" Value="Kako...?"/>
+  <String ID="19" Value="Odpri"/>
+  <String ID="20" Value="Izbriši"/>
+  <String ID="21" Value="Preimenuj"/>
+  <String ID="22" Value="Moji zaznamki:"/>
+  <String ID="23" Value="Zaznamuj temo"/>
+  <String ID="24" Value="Lokalni rezultati ..."/>
+  <String ID="25" Value="Spletni rezultati ..."/>
+  <String ID="26" Value="Lokalni in spletni rezultati ..."/>
+  <String ID="27" Value="Pregledovalnik pomoči HP"/>
+  <String ID="28" Value="Dobrodošli v Pregledovalnik pomoči HP."/>
+  <String ID="29" Value="Zgoraj vnesite iskani izraz in poiščite pomoč za svoj izdelek."/>
+  <String ID="30" Value="Povezave z internetom ni bilo mogoče vzpostaviti."/>
+  <String ID="31" Value="Ni najdenih rezultatov iskanja za"/>
+  <String ID="32" Value="Razširi"/>
+  <String ID="33" Value="Strni"/>
+  <String ID="34" Value="Obnovi"/>
+  <String ID="35" Value="Samo trenutek ..."/>
+  <String ID="36" Value="Indeksiranje datotek. Trajanje postopka je odvisno od hitrosti vašega sistema."/>
+  <String ID="37" Value="Pomoč"/>
+  <String ID="38" Value="Zaznamek za ta element že obstaja. Ali ga želite prepisati?"/>
+  <String ID="39" Value="Ali ste prepričani, da želite izbrisati?"/>
+  <String ID="40" Value="Izberi vse"/>
+  <String ID="41" Value="Ogled vira"/>
+  <String ID="42" Value="Natisni ..."/>
+  <String ID="43" Value="Osveži"/>
+  <String ID="44" Value="Lastnosti"/>
+  <String ID="51" Value="Možnosti iskanja"/>
+  <String ID="52" Value="Spremeni velikost"/>
+  <String ID="53" Value="Zaznamek s tem imenom že obstaja. Izberite drugo ime."/>
+  <String ID="54" Value="Natisni"/>
+  <String ID="55" Value="Izreži"/>
+  <String ID="56" Value="Kopiraj"/>
+  <String ID="57" Value="Prilepi"/>
+  <String ID="58" Value="Izbriši"/>
+  <String ID="59" Value="Zaženi pomoč HP"/>
+  <String ID="60" Value="Vključi spletne rezultate"/>
+  <String ID="61" Value="Oglejte si pomoč za točno določene izdelke in preprosteje odpravljajte težave."/>
+  <String ID="62" Value="Če si želite tukaj ogledati vsebino pomoči, morate namestiti elektronsko pomoč. Z elektronsko pomočjo spoznajte več o uporabi tiskalnika, odpravljanju težav, obvestilih, okoljskih obvestilih, upravnih obvestilih ter informacijah o podpori."/>
+  <String ID="63" Value="Elektronsko pomoč lahko namestite s HP-jeve CD-plošče s programsko opremo ali s spletnega mesta za podporo:"/>
+  <String ID="64" Value="Za namestitev s HP-jeve CD-plošče s programsko opremo vstavite CD-ploščo in nato začnite nameščati programsko opremo."/>
+  <String ID="65" Value="Za namestitev s spletnega mesta za podporo obiščite spletno mesto &lt;a href=&quot;[hub_url]&quot;&gt;hp.com/support&lt;/a&gt; in nato prenesite programsko opremo »Programska oprema z vsemi funkcijami in gonilniki«."/>
+  <String ID="66" Value="Ko vidite zaslon s seznamom priporočene programske opreme, se prepričajte, da je izbrana možnost »[prodName] Pomoč«."/>
+</strings>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<strings>
+  <String ID="1" Value="Précédent"/>
+  <String ID="2" Value="Suivant"/>
+  <String ID="3" Value="Accueil"/>
+  <String ID="4" Value="Imprimer cette rubrique"/>
+  <String ID="5" Value="Résultats de la recherche pour"/>
+  <String ID="6" Value="Signets"/>
+  <String ID="7" Value="Rechercher"/>
+  <String ID="8" Value="Entrer le terme à rechercher..."/>
+  <String ID="9" Value="Afficheur"/>
+  <String ID="10" Value="Voir également"/>
+  <String ID="11" Value="Sommaire"/>
+  <String ID="12" Value="Nouveau nom"/>
+  <String ID="13" Value="OK"/>
+  <String ID="14" Value="Annuler"/>
+  <String ID="15" Value="Fermer"/>
+  <String ID="16" Value="Agrandir"/>
+  <String ID="17" Value="Réduire"/>
+  <String ID="18" Value="Comment faire...?"/>
+  <String ID="19" Value="Ouvrir"/>
+  <String ID="20" Value="Supprimer"/>
+  <String ID="21" Value="Renommer"/>
+  <String ID="22" Value="Mes signets :"/>
+  <String ID="23" Value="Créer un signet pour la rubrique"/>
+  <String ID="24" Value="Résultats locaux…"/>
+  <String ID="25" Value="Résultats en ligne…"/>
+  <String ID="26" Value="Résultats locaux et en ligne…"/>
+  <String ID="27" Value="Afficheur d'aide HP"/>
+  <String ID="28" Value="Bienvenue dans l'afficheur d'aide HP."/>
+  <String ID="29" Value="Entrez un terme ci-dessus pour rechercher de l'aide sur le produit."/>
+  <String ID="30" Value="Impossible d'établir la connexion à Internet."/>
+  <String ID="31" Value="Aucun résultat de recherche pour"/>
+  <String ID="32" Value="Développer"/>
+  <String ID="33" Value="Réduire"/>
+  <String ID="34" Value="Restaurer"/>
+  <String ID="35" Value="Veuillez patienter..."/>
+  <String ID="36" Value="Indexation des fichiers. Cette opération peut prendre quelques instants, selon la puissance de votre système."/>
+  <String ID="37" Value="Aide"/>
+  <String ID="38" Value="Un signet désignant cet élément existe déjà. Voulez-vous le/la remplacer ?"/>
+  <String ID="39" Value="Confirmez-vous la suppression ?"/>
+  <String ID="40" Value="Sélectionner tout"/>
+  <String ID="41" Value="Afficher la source"/>
+  <String ID="42" Value="Imprimer..."/>
+  <String ID="43" Value="Régénérer"/>
+  <String ID="44" Value="Propriétés"/>
+  <String ID="51" Value="Options de recherche"/>
+  <String ID="52" Value="Redimensionner"/>
+  <String ID="53" Value="Un signet portant ce nom existe déjà. Veuillez sélectionner un autre nom."/>
+  <String ID="54" Value="Imprimer"/>
+  <String ID="55" Value="Couper"/>
+  <String ID="56" Value="Copier"/>
+  <String ID="57" Value="Coller"/>
+  <String ID="58" Value="Supprimer"/>
+  <String ID="59" Value="Lancer l'aide HP"/>
+  <String ID="60" Value="Inclure les résultats en ligne"/>
+  <String ID="61" Value="Obtenir une aide spécifique sur le produit afin d'identifier et résoudre facilement les incidents."/>
+  <String ID="62" Value="Pour visualiser le contenu de l'aide dans cette fenêtre, vous devez installer l'aide électronique. L'aide en ligne vous permet d'en savoir davantage sur l'utilisation, les fonctionnalités et le dépannage de l'imprimante, ainsi que sur l'obtention d'informations environnementales, réglementaires et d'assistance."/>
+  <String ID="63" Value="Vous pouvez installer l'aide électronique à partir du CD du logiciel HP via le site Web d'assistance :"/>
+  <String ID="64" Value="Pour effectuer l'installation à partir du CD du logiciel HP, insérez le CD, puis lancez l'installation."/>
+  <String ID="65" Value="Pour effectuer l'installation à partir du site Web d'assistance, accédez à &lt;a href=&quot;[hub_url]&quot;&gt;hp.com/support&lt;/a&gt;, puis téléchargez la &quot;Version complète des pilotes et logiciels pour périphériques&quot;."/>
+  <String ID="66" Value="Lorsque l'écran indiquant la liste des logiciels recommandés s'affiche, assurez-vous que l'option &quot;[prodName] - Aide&quot; est sélectionnée."/>  
+</strings>

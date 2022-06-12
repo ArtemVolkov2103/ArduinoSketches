@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<strings>
+  <String ID="1" Value="Indietro"/>
+  <String ID="2" Value="Avanti"/>
+  <String ID="3" Value="Pagina iniziale"/>
+  <String ID="4" Value="Stampa questo argomento"/>
+  <String ID="5" Value="Cerca nei risultati:"/>
+  <String ID="6" Value="Segnalibri"/>
+  <String ID="7" Value="Cerca"/>
+  <String ID="8" Value="Digita termine di ricerca..."/>
+  <String ID="9" Value="Visualizzatore"/>
+  <String ID="10" Value="Vedi anche"/>
+  <String ID="11" Value="Sommario"/>
+  <String ID="12" Value="Nuovo nome"/>
+  <String ID="13" Value="OK"/>
+  <String ID="14" Value="Annulla"/>
+  <String ID="15" Value="Chiudi"/>
+  <String ID="16" Value="Ingrandisci"/>
+  <String ID="17" Value="Riduci"/>
+  <String ID="18" Value="Procedura"/>
+  <String ID="19" Value="Apri"/>
+  <String ID="20" Value="Elimina"/>
+  <String ID="21" Value="Assegna nuovo nome"/>
+  <String ID="22" Value="Segnalibri personali:"/>
+  <String ID="23" Value="Contrassegna argomento"/>
+  <String ID="24" Value="Risultati locali…"/>
+  <String ID="25" Value="Risultati online…"/>
+  <String ID="26" Value="Risultati locali e online…"/>
+  <String ID="27" Value="Visualizzatore della Guida HP"/>
+  <String ID="28" Value="Benvenuti in Visualizzatore della Guida HP."/>
+  <String ID="29" Value="Immettere un termine di ricerca per trovare le relative informazioni nella guida del prodotto."/>
+  <String ID="30" Value="Impossibile collegarsi a Internet."/>
+  <String ID="31" Value="Nessun risultato trovato per"/>
+  <String ID="32" Value="Espandi"/>
+  <String ID="33" Value="Comprimi"/>
+  <String ID="34" Value="Ripristina"/>
+  <String ID="35" Value="Attendere..."/>
+  <String ID="36" Value="Indicizzazione file in corso. Questa operazione potrebbe richiedere alcuni momenti, a seconda della velocità del sistema."/>
+  <String ID="37" Value="?"/>
+  <String ID="38" Value="Esiste già un segnalibro per questo elemento.Si desidera sovrascriverlo?"/>
+  <String ID="39" Value="Si è certi di volerlo eliminare?"/>
+  <String ID="40" Value="Seleziona tutto"/>
+  <String ID="41" Value="Visualizza origine"/>
+  <String ID="42" Value="Stampa..."/>
+  <String ID="43" Value="Aggiorna"/>
+  <String ID="44" Value="Proprietà"/>
+  <String ID="51" Value="Opzioni di ricerca"/>
+  <String ID="52" Value="Ridimensiona"/>
+  <String ID="53" Value="Esiste già un segnalibro con questo nome. Scegliere un altro nome."/>
+  <String ID="54" Value="Stampa"/>
+  <String ID="55" Value="Taglia"/>
+  <String ID="56" Value="Copia"/>
+  <String ID="57" Value="Incolla"/>
+  <String ID="58" Value="Elimina"/>
+  <String ID="59" Value="Apre la guida di HP"/>
+  <String ID="60" Value="Include i risultati online"/>
+  <String ID="61" Value="La Guida specifica del prodotto consente di rilevare e risolvere facilmente i problemi."/>
+  <String ID="62" Value="È necessario installare la guida in formato elettronico per visualizzare il contenuto della guida qui. Nella guida in formato elettronico sono disponibili informazioni su utilizzo della stampante, funzionalità, risoluzione dei problemi, avvisi, informazioni ambientali, normative e di supporto."/>
+  <String ID="63" Value="È possibile installare la guida in formato elettronico dal CD del software HP o dal sito Web di supporto:"/>
+  <String ID="64" Value="Per eseguire l'installazione dal CD del software HP, inserire il CD e quindi avviare l'installazione del software."/>
+  <String ID="65" Value="Per eseguire l'installazione dal sito Web di supporto, visitare &lt;a href=&quot;[hub_url]&quot;&gt;hp.com/support&lt;/a&gt; e scaricare il software “Software e driver completi”."/>
+  <String ID="66" Value="Quando viene visualizzato l'elenco dei programmi software consigliati, verificare che sia selezionata l'opzione “Guida di [prodName]”."/>
+</strings>

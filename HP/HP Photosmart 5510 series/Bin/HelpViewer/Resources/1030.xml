@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<strings>
+  <String ID="1" Value="Tilbage"/>
+  <String ID="2" Value="Send"/>
+  <String ID="3" Value="Startside"/>
+  <String ID="4" Value="Udskriv dette emne"/>
+  <String ID="5" Value="Søgeresultat for"/>
+  <String ID="6" Value="Bogmærker"/>
+  <String ID="7" Value="Søg"/>
+  <String ID="8" Value="Indtast søgeord..."/>
+  <String ID="9" Value="Fremviser"/>
+  <String ID="10" Value="Se også"/>
+  <String ID="11" Value="Indhold"/>
+  <String ID="12" Value="Nyt navn"/>
+  <String ID="13" Value="OK"/>
+  <String ID="14" Value="Annuller"/>
+  <String ID="15" Value="Luk"/>
+  <String ID="16" Value="Maksimer"/>
+  <String ID="17" Value="Minimer"/>
+  <String ID="18" Value="Hvordan gør jeg...?"/>
+  <String ID="19" Value="Åbn"/>
+  <String ID="20" Value="Slet"/>
+  <String ID="21" Value="Omdøb"/>
+  <String ID="22" Value="Mine bogmærker:"/>
+  <String ID="23" Value="Sæt bogmærke ved emne"/>
+  <String ID="24" Value="Lokale resultater..."/>
+  <String ID="25" Value="Online resultater…"/>
+  <String ID="26" Value="Lokale og online resultater..."/>
+  <String ID="27" Value="HP hjælpfremviser"/>
+  <String ID="28" Value="Velkommen til HP hjælpfremviser"/>
+  <String ID="29" Value="Angiv et søgeord for at finde produktet."/>
+  <String ID="30" Value="Kan ikke oprette forbindelse til internettet."/>
+  <String ID="31" Value="Der blev ikke fundet noget for"/>
+  <String ID="32" Value="Udvid"/>
+  <String ID="33" Value="Skjul"/>
+  <String ID="34" Value="Gendan"/>
+  <String ID="35" Value="Vent et øjeblik..."/>
+  <String ID="36" Value="Indekserer filer.Det kan tage et øjeblik afhængig af systemets hastighed."/>
+  <String ID="37" Value="Hjælp"/>
+  <String ID="38" Value="Der findes allerede et bogmærke for dette element. Vil du overskrive det?"/>
+  <String ID="39" Value="Vil du slette?"/>
+  <String ID="40" Value="Vælg alle"/>
+  <String ID="41" Value="Vis kilde"/>
+  <String ID="42" Value="Udskriv..."/>
+  <String ID="43" Value="Opfrisk"/>
+  <String ID="44" Value="Egenskaber"/>
+  <String ID="51" Value="Søgeindstillinger"/>
+  <String ID="52" Value="Tilpas"/>
+  <String ID="53" Value="Der findes allerede et bogmærke med dette navn. Vælg et andet navn."/>
+  <String ID="54" Value="Udskriv"/>
+  <String ID="55" Value="Klip"/>
+  <String ID="56" Value="Kopier"/>
+  <String ID="57" Value="Sæt ind"/>
+  <String ID="58" Value="Slet"/>
+  <String ID="59" Value="Start HP hjælp"/>
+  <String ID="60" Value="Medtag online resultater"/>
+  <String ID="61" Value="Få produktspecifik hjælp til nem fejlfinding og løsning af problemer."/>
+  <String ID="62" Value="Du skal installere den elektroniske hjælp for at få vist indholdet af hjælpen her. I den elektroniske hjælp finder du lov- og miljømæssige oplysninger samt oplysninger om brug af printeren, funktioner, fejlfinding, bemærkninger, samt hvordan du kan få support."/>
+  <String ID="63" Value="Du kan installere den elektroniske hjælp fra cd'en med software fra HP eller support-websitet:"/>
+  <String ID="64" Value="Indsæt cd'en, og påbegynd installation af softwaren, hvis du vil installere fra cd'en med software fra HP."/>
+  <String ID="65" Value="Besøg &lt;a href=&quot;[hub_url]&quot;&gt;hp.com/support&lt;/a&gt;, og overfør softwaren med alle funktioner og drivere, hvis du vil installere fra support-websitet."/>
+  <String ID="66" Value="Når listen over anbefalet software vises, skal du sørge for, at indstillingen &quot;[prodName] Hjælp&quot; er valgt."/>
+</strings>

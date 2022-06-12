@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<strings>
+  <String ID="1" Value="السابق"/>
+  <String ID="2" Value="إلى الأمام"/>
+  <String ID="3" Value="الصفحة الرئيسية"/>
+  <String ID="4" Value="طباعة هذا الموضوع"/>
+  <String ID="5" Value="البحث عن نتائج بخصوص"/>
+  <String ID="6" Value="إشارات مرجعية"/>
+  <String ID="7" Value="بحث"/>
+  <String ID="8" Value="أدخل مصطلح للبحث..."/>
+  <String ID="9" Value="عارض"/>
+  <String ID="10" Value="راجع أيضًا"/>
+  <String ID="11" Value="المحتويات"/>
+  <String ID="12" Value="اسم جديد"/>
+  <String ID="13" Value="موافق"/>
+  <String ID="14" Value="إلغاء الأمر"/>
+  <String ID="15" Value="إغلاق"/>
+  <String ID="16" Value="تكبير"/>
+  <String ID="17" Value="تصغير"/>
+  <String ID="18" Value="كيف أقوم بـ...؟"/>
+  <String ID="19" Value="فتح"/>
+  <String ID="20" Value="حذف"/>
+  <String ID="21" Value="إعادة التسمية"/>
+  <String ID="22" Value="إشاراتي المرجعية"/>
+  <String ID="23" Value="أضف إشارة مرجعية للموضوع"/>
+  <String ID="24" Value="النتائج المحلية..."/>
+  <String ID="25" Value="النتائج الإنترنتية..."/>
+  <String ID="26" Value="النتائج المحلية والإنترنتية..."/>
+  <String ID="27" Value="عارض التعليمات من HP"/>
+  <String ID="28" Value="مرحبًا في عارض تعليمات HP"/>
+  <String ID="29" Value="أدخل مصطلحًا للبحث أعلاه للعثور على تعليمات لمنتجك."/>
+  <String ID="30" Value="تعذر الاتصال بالإنترنت."/>
+  <String ID="31" Value="تعذر العثور على نتائج حول"/>
+  <String ID="32" Value="توسيع"/>
+  <String ID="33" Value="طي"/>
+  <String ID="34" Value="استعادة"/>
+  <String ID="35" Value="لحظة من فضلك..."/>
+  <String ID="36" Value="جاري فهرسة الملفات. قد يستغرق ذلك لحظات عدة اعتمادًا على سرعة نظامك."/>
+  <String ID="37" Value="تعليمات"/>
+  <String ID="38" Value="ثمة علامة مرجعية موجودة بالفعل لهذا العنصر. هل أنت متأكد من استبدالها؟"/>
+  <String ID="39" Value="هل تريد بالتأكيد الحذف؟"/>
+  <String ID="40" Value="تحديد الكل"/>
+  <String ID="41" Value="عرض المصدر"/>
+  <String ID="42" Value="طباعة..."/>
+  <String ID="43" Value="تحديث"/>
+  <String ID="44" Value="خصائص"/>
+  <String ID="51" Value="خيارات البحث"/>
+  <String ID="52" Value="تغيير الحجم"/>
+  <String ID="53" Value="ثمة علامة مرجعية موجودة بالفعل بهذا الاسم.الرجاء اختيار اسم مختلف."/>
+  <String ID="54" Value="طباعة"/>
+  <String ID="55" Value="قص"/>
+  <String ID="56" Value="نسخ"/>
+  <String ID="57" Value="لصق"/>
+  <String ID="58" Value="حذف"/>
+  <String ID="59" Value="تشغيل تعليمات HP"/>
+  <String ID="60" Value="تضمين النتائج بالاتصال"/>
+  <String ID="61" Value="احصل على تعليمات خاصة بالمنتج لحل المشكلات بسرعة."/>
+  <String ID="62" Value="يجب تثبيت &quot;التعليمات&quot; الإلكترونية لعرض محتوى &quot;التعليمات&quot; هنا. تعرّف على استخدام الطابعة وميزاتها واستكشاف الأخطاء وإصلاحها والإشعارات والملاءمة البيئية والإجراءات التنظيمية ومعلومات الدعم من خلال &quot;التعليمات&quot; الإلكترونية."/>
+  <String ID="63" Value="يمكنك تثبيت &quot;التعليمات&quot; الإلكترونية من القرص المضغوط لبرامج HP أو موقع الدعم على ويب."/>
+  <String ID="64" Value="للتثبيت من القرص المضغوط لبرامج HP، أدخل القرص المضغوط وابدأ تثبيت البرنامج."/>
+  <String ID="65" Value="للتثبيت من موقع الدعم على ويب، قم بزيارة الموقع &lt;a href=&quot;[hub_url]&quot;&gt;hp.com/support&lt;/a&gt;
+، وقم بتنزيل برنامج &quot;Full Feature Software and Drivers&quot;."/>
+  <String ID="66" Value="وعند عرض الشاشة التي تسرد البرامج الموصى بها، تأكد من تحديد خيار التعليمات الخاص بالمنتج &quot;تعليمات [prodName]&quot;."/>
+</strings>

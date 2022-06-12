@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<strings>
+  <String ID="1" Value="Terug"/>
+  <String ID="2" Value="Volgende"/>
+  <String ID="3" Value="Startpagina"/>
+  <String ID="4" Value="Dit onderwerp afdrukken"/>
+  <String ID="5" Value="Resultaten zoeken voor"/>
+  <String ID="6" Value="Bladwijzers"/>
+  <String ID="7" Value="Zoeken"/>
+  <String ID="8" Value="Voer zoekterm in..."/>
+  <String ID="9" Value="Viewer"/>
+  <String ID="10" Value="Zie ook"/>
+  <String ID="11" Value="Inhoud"/>
+  <String ID="12" Value="Nieuwe naam"/>
+  <String ID="13" Value="OK"/>
+  <String ID="14" Value="Annuleren"/>
+  <String ID="15" Value="Sluiten"/>
+  <String ID="16" Value="Maximaliseren"/>
+  <String ID="17" Value="Minimaliseren"/>
+  <String ID="18" Value="Hoe kan ik...?"/>
+  <String ID="19" Value="Openen"/>
+  <String ID="20" Value="Verwijderen"/>
+  <String ID="21" Value="Naam wijzigen"/>
+  <String ID="22" Value="Mijn bladwijzers:"/>
+  <String ID="23" Value="Bladwijzeronderwerp"/>
+  <String ID="24" Value="Lokale resultaten..."/>
+  <String ID="25" Value="Online resultaten…"/>
+  <String ID="26" Value="Lokale en online resultaten…"/>
+  <String ID="27" Value="HP Help Viewer"/>
+  <String ID="28" Value="Welkom bij HP Help Viewer."/>
+  <String ID="29" Value="Voer hierboven een zoekwoord in om hulp voor uw product te vinden."/>
+  <String ID="30" Value="Kan geen verbinding maken met internet."/>
+  <String ID="31" Value="Geen resultaten gevonden voor"/>
+  <String ID="32" Value="Uitvouwen"/>
+  <String ID="33" Value="Samenvouwen"/>
+  <String ID="34" Value="Herstellen"/>
+  <String ID="35" Value="Een ogenblik geduld a.u.b..."/>
+  <String ID="36" Value="Bestanden indexeren.Dit kan enkele ogenblikken duren, afhankelijk van de snelheid van uw systeem."/>
+  <String ID="37" Value="Help"/>
+  <String ID="38" Value="Voor dit item bestaat al een bladwijzer. Wilt u dit overschrijven?"/>
+  <String ID="39" Value="Weet u zeker dat u de selectie wilt verwijderen?"/>
+  <String ID="40" Value="Alles selecteren"/>
+  <String ID="41" Value="Bron weergeven"/>
+  <String ID="42" Value="Afdrukken..."/>
+  <String ID="43" Value="Vernieuwen"/>
+  <String ID="44" Value="Eigenschappen"/>
+  <String ID="51" Value="Zoekopties"/>
+  <String ID="52" Value="Formaat wijzigen"/>
+  <String ID="53" Value="Er bestaat al een bladwijzer met deze naam. Kies een andere naam."/>
+  <String ID="54" Value="Afdrukken"/>
+  <String ID="55" Value="Knippen"/>
+  <String ID="56" Value="Kopiëren"/>
+  <String ID="57" Value="Plakken"/>
+  <String ID="58" Value="Verwijderen"/>
+  <String ID="59" Value="HP Help starten"/>
+  <String ID="60" Value="Inclusief online resultaten"/>
+  <String ID="61" Value="Vraag productspecifieke hulp om eenvoudig vragen te stellen en problemen op te lossen."/>
+  <String ID="62" Value="U moet de elektronische Help installeren om hier Help-inhoud te kunnen weergeven. In de elektronische Help vindt u informatie over het gebruik van de printer, functies, probleemoplossingen, kennisgevingen en informatie over de omgeving, wet- en regelgeving en ondersteuning."/>
+  <String ID="63" Value="U kunt de elektronische Help installeren via de cd met HP-software of vanaf de ondersteuningswebsite:"/>
+  <String ID="64" Value="Als u wilt installeren vanaf de cd met HP-software, plaatst u de cd in de computer om de installatie te starten."/>
+  <String ID="65" Value="Als u wilt installeren vanaf de ondersteuningswebsite, gaat u naar &lt;a href=&quot;[hub_url]&quot;&gt;hp.com/support&lt;/a&gt; en downloadt u de software “Software en drivers met volledige functionaliteit”."/>
+  <String ID="66" Value="Op het scherm met de aanbevolen software moet de optie “[prodName] Help” zijn geselecteerd."/>
+</strings>

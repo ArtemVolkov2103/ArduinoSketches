@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<strings>
+  <String ID="1" Value="Späť"/>
+  <String ID="2" Value="Ďalej"/>
+  <String ID="3" Value="Úvod"/>
+  <String ID="4" Value="Tlačiť túto tému"/>
+  <String ID="5" Value="Výsledky vyhľadávania pre"/>
+  <String ID="6" Value="Záložky"/>
+  <String ID="7" Value="Hľadať"/>
+  <String ID="8" Value="Zadajte hľadaný výraz..."/>
+  <String ID="9" Value="Zobrazovač"/>
+  <String ID="10" Value="Pozrite tiež"/>
+  <String ID="11" Value="Obsah"/>
+  <String ID="12" Value="Nový názov"/>
+  <String ID="13" Value="OK"/>
+  <String ID="14" Value="Zrušiť"/>
+  <String ID="15" Value="Zavrieť"/>
+  <String ID="16" Value="Maximalizovať"/>
+  <String ID="17" Value="Minimalizovať"/>
+  <String ID="18" Value="Ako...?"/>
+  <String ID="19" Value="Otvoriť"/>
+  <String ID="20" Value="Odstrániť"/>
+  <String ID="21" Value="Premenovať"/>
+  <String ID="22" Value="Moje záložky:"/>
+  <String ID="23" Value="Pridať tému do záložiek"/>
+  <String ID="24" Value="Lokálne výsledky..."/>
+  <String ID="25" Value="Výsledky online..."/>
+  <String ID="26" Value="Lokálne výsledky a výsledky online..."/>
+  <String ID="27" Value="Zobrazovač pomocníka HP"/>
+  <String ID="28" Value="Víta vás zobrazovač pomocníka HP."/>
+  <String ID="29" Value="Vyššie zadajte hľadaný výraz na vyhľadanie pomocníka pre váš produkt."/>
+  <String ID="30" Value="Nedá sa pripojiť na Internet."/>
+  <String ID="31" Value="Nenašli sa žiadne výsledky pre"/>
+  <String ID="32" Value="Rozbaliť"/>
+  <String ID="33" Value="Zbaliť"/>
+  <String ID="34" Value="Obnoviť"/>
+  <String ID="35" Value="Počkajte, prosím..."/>
+  <String ID="36" Value="Indexujú sa súbory. Môže to chvíľu trvať v závislosti od rýchlosti vášho systému."/>
+  <String ID="37" Value="Pomocník"/>
+  <String ID="38" Value="Pre túto položku už existuje záložka. Chcete ju prepísať?"/>
+  <String ID="39" Value="Naozaj chcete vykonať odstránenie?"/>
+  <String ID="40" Value="Vybrať všetko"/>
+  <String ID="41" Value="Zobraziť zdroj"/>
+  <String ID="42" Value="Tlačiť..."/>
+  <String ID="43" Value="Obnoviť"/>
+  <String ID="44" Value="Vlastnosti"/>
+  <String ID="51" Value="Možnosti vyhľadávania"/>
+  <String ID="52" Value="Upraviť veľkosť"/>
+  <String ID="53" Value="Záložka s týmto názvom už existuje. Vyberte iný názov."/>
+  <String ID="54" Value="Tlačiť"/>
+  <String ID="55" Value="Vystrihnúť"/>
+  <String ID="56" Value="Kopírovať"/>
+  <String ID="57" Value="Prilepiť"/>
+  <String ID="58" Value="Odstrániť"/>
+  <String ID="59" Value="Spustiť pomocníka HP"/>
+  <String ID="60" Value="Zahrnúť výsledky online"/>
+  <String ID="61" Value="Získajte pomoc pre konkrétny produkt na jednoduché riešenie a odstraňovanie problémov."/>
+    <String ID="62" Value="Ak chcete zobraziť obsah Pomocníka, musíte nainštalovať elektronického Pomocníka. Prostredníctvom elektronického Pomocníka môžete získať informácie o používaní tlačiarne, jej funkciách, riešení problémov a upozorneniach, ako aj environmentálne, regulačné a podporné informácie."/>
+    <String ID="63" Value="Elektronického Pomocníka môžete nainštalovať z disku CD so softvérom spoločnosti HP alebo z webovej lokality podpory:"/>
+    <String ID="64" Value="Ak ho chcete nainštalovať z disku CD so softvérom spoločnosti HP, vložte disk CD a spustite inštaláciu softvéru."/>
+    <String ID="65" Value="Ak ho chcete nainštalovať z webovej lokality podpory, navštívte lokalitu &lt;a href=&quot;[hub_url]&quot;&gt;hp.com/support&lt;/a&gt; a prevezmite balík Softvér a ovládače so všetkými funkciami."/>
+    <String ID="66" Value="Po zobrazení obrazovky so zoznamom odporúčaného softvéru skontrolujte, či je začiarknutá možnosť Pomocník produktu [prodName]."/>
+</strings>

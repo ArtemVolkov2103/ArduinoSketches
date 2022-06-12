@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<strings>
+  <String ID="1" Value="戻る"/>
+  <String ID="2" Value="進む"/>
+  <String ID="3" Value="ホーム"/>
+  <String ID="4" Value="このトピックを印刷"/>
+  <String ID="5" Value="検索結果:"/>
+  <String ID="6" Value="ブックマーク"/>
+  <String ID="7" Value="検索"/>
+  <String ID="8" Value="検索語を入力..."/>
+  <String ID="9" Value="ビューア"/>
+  <String ID="10" Value="参照先"/>
+  <String ID="11" Value="内容"/>
+  <String ID="12" Value="新しい名前"/>
+  <String ID="13" Value="OK"/>
+  <String ID="14" Value="キャンセル"/>
+  <String ID="15" Value="閉じる"/>
+  <String ID="16" Value="最大化"/>
+  <String ID="17" Value="最小化"/>
+  <String ID="18" Value="使用方法"/>
+  <String ID="19" Value="開く"/>
+  <String ID="20" Value="削除"/>
+  <String ID="21" Value="名前の変更"/>
+  <String ID="22" Value="マイ ブックマーク:"/>
+  <String ID="23" Value="トピックをブックマーク"/>
+  <String ID="24" Value="ローカルの結果..."/>
+  <String ID="25" Value="オンラインの結果..."/>
+  <String ID="26" Value="ローカルとオンラインの結果..."/>
+  <String ID="27" Value="HP ヘルプ ビューア"/>
+  <String ID="28" Value="HP ヘルプ ビューアへようこそ"/>
+  <String ID="29" Value="製品のヘルプを見つけるには、上に検索語を入力してください。"/>
+  <String ID="30" Value="インターネットに接続できません"/>
+  <String ID="31" Value="検索結果が見つかりません:"/>
+  <String ID="32" Value="展開"/>
+  <String ID="33" Value="折りたたみ"/>
+  <String ID="34" Value="復元"/>
+  <String ID="35" Value="しばらくお待ちください..."/>
+  <String ID="36" Value="ファイルのインデックス作成。 お使いのシステムの速度によって、この作業にしばらく時間がかかることがあります。"/>
+  <String ID="37" Value="ヘルプ"/>
+  <String ID="38" Value="この項目のブックマークはすでに存在します。 上書きしますか?"/>
+  <String ID="39" Value="削除しますか?"/>
+  <String ID="40" Value="すべて選択"/>
+  <String ID="41" Value="ソースを表示"/>
+  <String ID="42" Value="印刷..."/>
+  <String ID="43" Value="更新"/>
+  <String ID="44" Value="プロパティ"/>
+  <String ID="51" Value="検索オプション"/>
+  <String ID="52" Value="サイズの変更"/>
+  <String ID="53" Value="この名前のブックマークはすでに存在します。 別の名前を選択してください。"/>
+  <String ID="54" Value="印刷"/>
+  <String ID="55" Value="切り取り"/>
+  <String ID="56" Value="コピー"/>
+  <String ID="57" Value="貼り付け"/>
+  <String ID="58" Value="削除"/>
+  <String ID="59" Value="HP ヘルプの起動"/>
+  <String ID="60" Value="オンライン結果を含める"/>
+  <String ID="61" Value="製品個別のヘルプを入手し、簡単に問題をトラブルシューティングし、解決します。"/>
+  <String ID="62" Value="HP コンテンツをここに表示するにはオンライン ヘルプをインストールする必要があります。オンライン ヘルプで、プリンタの使用方法、機能、トラブルシューティング、注意事項、環境に関する情報、規制に関する情報、サポート情報を参照してください。"/>
+  <String ID="63" Value="オンライン ヘルプは、HP ソフトウェア CD または HP サポート Web サイトからインストールできます。"/>
+  <String ID="64" Value="HP ソフトウェア CD からインストールするには、本 CD を挿入し、本ソフトウェアのインストールを開始します。"/>
+  <String ID="65" Value="HP サポート Web サポートからインストールするには、&lt;a href=&quot;[hub_url]&quot;&gt;hp.com/support&lt;/a&gt; にアクセスし、「フル機能ソフトウェアとドライバ」ソフトウェアをダウンロードします。"/>
+  <String ID="66" Value="推奨ソフトウェアを一覧する画面を表示する際は、[prodName] ヘルプ オプションがオンになっていることを確認してください。"/>
+</strings>

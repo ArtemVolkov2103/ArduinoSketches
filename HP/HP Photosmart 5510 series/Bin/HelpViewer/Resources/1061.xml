@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<strings>
+  <String ID="1" Value="Tagasi"/>
+  <String ID="2" Value="Edasi"/>
+  <String ID="3" Value="Avaleht"/>
+  <String ID="4" Value="Prindi teema"/>
+  <String ID="5" Value="Otsingutulemused"/>
+  <String ID="6" Value="Järjehoidjad"/>
+  <String ID="7" Value="Otsi"/>
+  <String ID="8" Value="Sisesta otsisõna..."/>
+  <String ID="9" Value="Vaatur"/>
+  <String ID="10" Value="Vaata ka"/>
+  <String ID="11" Value="Sisukord"/>
+  <String ID="12" Value="Uus nimi"/>
+  <String ID="13" Value="OK"/>
+  <String ID="14" Value="Tühista"/>
+  <String ID="15" Value="Sulge"/>
+  <String ID="16" Value="Suureks"/>
+  <String ID="17" Value="Väikseks"/>
+  <String ID="18" Value="Kuidas...?"/>
+  <String ID="19" Value="Ava"/>
+  <String ID="20" Value="Kustuta"/>
+  <String ID="21" Value="Nimeta ümber"/>
+  <String ID="22" Value="Minu järjehoidjad:"/>
+  <String ID="23" Value="Märgi teema"/>
+  <String ID="24" Value="Kohalikud tulemused..."/>
+  <String ID="25" Value="Võrgu tulemused..."/>
+  <String ID="26" Value="Kohalikud ja võrgu tulemused"/>
+  <String ID="27" Value="HP spikrivaatur"/>
+  <String ID="28" Value="Teretulemast rakendusse HP spikrivaatur"/>
+  <String ID="29" Value="Toote kohta abi saamiseks sisestage ülespoole otsisõna."/>
+  <String ID="30" Value="Ei saa Internetiga ühendust."/>
+  <String ID="31" Value="Tulemusi pole"/>
+  <String ID="32" Value="Laienda"/>
+  <String ID="33" Value="Ahenda"/>
+  <String ID="34" Value="Taasta"/>
+  <String ID="35" Value="Üks hetk, palun..."/>
+  <String ID="36" Value="Koostan failiregistrit. See võtab sõltuvalt süsteemi kiirusest natuke aega."/>
+  <String ID="37" Value="Spikker"/>
+  <String ID="38" Value="Sellele objektile on juba järjehoidja. Kirjutad üle?"/>
+  <String ID="39" Value="Soovid selle kindlasti kustutada?"/>
+  <String ID="40" Value="Vali kõik"/>
+  <String ID="41" Value="Vaata allikat"/>
+  <String ID="42" Value="Prindi..."/>
+  <String ID="43" Value="Värskenda"/>
+  <String ID="44" Value="Omadused"/>
+  <String ID="51" Value="Otsingu valikud"/>
+  <String ID="52" Value="Muuda suurust"/>
+  <String ID="53" Value="Selle nimega järjehoidja on juba olemas. Vali uus nimi."/>
+  <String ID="54" Value="Prindi"/>
+  <String ID="55" Value="Lõika"/>
+  <String ID="56" Value="Kopeeri"/>
+  <String ID="57" Value="Kleebi"/>
+  <String ID="58" Value="Kustuta"/>
+  <String ID="59" Value="Käivita HP spikker"/>
+  <String ID="60" Value="Kaasa ka võrgu tulemused"/>
+  <String ID="61" Value="Tõrkeotsinguks ja probleemide lahendamiseks avage tootespetsiifiline spikker."/>
+  <String ID="62" Value="Spikrisisu vaatamiseks siin tuleb installida sisespikker. Sisespikker sisaldab teavet printeri kasutamise, funktsioonide, tõrkeotsingu, märkuste, keskkonna- ja regulatiivteabe ning tugiteenuste kohta."/>
+  <String ID="63" Value="Sisespikri saab installida HP tarkvara-CD-lt või tugiteenuste veebisaidilt:"/>
+  <String ID="64" Value="Spikri installimiseks HP tarkvara-CD-lt paigaldage CD ja alustage tarkvara installimist."/>
+  <String ID="65" Value="Spikri installimiseks tugiteenuste veebisaidilt minge aadressile &lt;a href=&quot;[hub_url]&quot;&gt;hp.com/support&lt;/a&gt; ja laadige alla tarkvarakomplekt “Full Feature Software and Drivers”."/>
+  <String ID="66" Value="Kui kuvatakse soovitatavate programmide loend, veenduge, et “[prodName] spikker” on valitud."/>
+</strings>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<strings>
+  <String ID="1" Value="Zpět"/>
+  <String ID="2" Value="Vpřed"/>
+  <String ID="3" Value="Hlavní stránka"/>
+  <String ID="4" Value="Vytisknout toto téma"/>
+  <String ID="5" Value="Výsledky hledání pro"/>
+  <String ID="6" Value="Záložky"/>
+  <String ID="7" Value="Hledat"/>
+  <String ID="8" Value="Zadejte výraz pro hledání..."/>
+  <String ID="9" Value="Prohlížeč"/>
+  <String ID="10" Value="Viz také"/>
+  <String ID="11" Value="Obsah"/>
+  <String ID="12" Value="Nové jméno"/>
+  <String ID="13" Value="OK"/>
+  <String ID="14" Value="Zrušit"/>
+  <String ID="15" Value="Zavřít"/>
+  <String ID="16" Value="Maximalizovat"/>
+  <String ID="17" Value="Minimalizovat"/>
+  <String ID="18" Value="Jak mám postupovat...?"/>
+  <String ID="19" Value="Otevřít"/>
+  <String ID="20" Value="Odstranit"/>
+  <String ID="21" Value="Přejmenovat"/>
+  <String ID="22" Value="Mé záložky:"/>
+  <String ID="23" Value="Téma záložky"/>
+  <String ID="24" Value="Lokální výsledky..."/>
+  <String ID="25" Value="Online výsledky..."/>
+  <String ID="26" Value="Lokální a online výsledky..."/>
+  <String ID="27" Value="Prohlížeč nápovědy HP"/>
+  <String ID="28" Value="Vítejte v prohlížeči nápovědy HP"/>
+  <String ID="29" Value="Pro nalezení nápovědy pro váš produkt zadejte výše výraz pro vyhledávání."/>
+  <String ID="30" Value="Nelze se připojit na Internet."/>
+  <String ID="31" Value="Pro ... nebyly nalezeny žádné výsledky"/>
+  <String ID="32" Value="Roztáhnout"/>
+  <String ID="33" Value="Sbalit"/>
+  <String ID="34" Value="Obnovit"/>
+  <String ID="35" Value="Počkejte..."/>
+  <String ID="36" Value="Probíhá indexování souborů. V závislosti na rychlosti vašeho systému to může chvíli trvat."/>
+  <String ID="37" Value="Nápověda"/>
+  <String ID="38" Value="Pro tuto položku již existuje záložka. Chcete jí přepsat?"/>
+  <String ID="39" Value="Opravdu chcete vymazat?"/>
+  <String ID="40" Value="Vybrat všechny položky"/>
+  <String ID="41" Value="Zobrazit zdroj"/>
+  <String ID="42" Value="Tisk..."/>
+  <String ID="43" Value="Obnovit"/>
+  <String ID="44" Value="Vlastnosti"/>
+  <String ID="51" Value="Možnosti hledání"/>
+  <String ID="52" Value="Změnit velikost"/>
+  <String ID="53" Value="Záložka s tímto názvem již exustuje. Vyberte jiný název."/>
+  <String ID="54" Value="Tisk"/>
+  <String ID="55" Value="Vyjmout"/>
+  <String ID="56" Value="Kopírovat"/>
+  <String ID="57" Value="Vložit"/>
+  <String ID="58" Value="Odstranit"/>
+  <String ID="59" Value="Spustit nápovědu HP"/>
+  <String ID="60" Value="Zahrnout výsledky online"/>
+  <String ID="61" Value="Pro snadné řešení potíží získejte nápovědu přesně pro váš produkt."/>
+  <String ID="62" Value="Abyste mohli prohlížet obsah nápovědy, je třeba nainstalovat elektronickou nápovědu. V elektronické nápovědě získáte informace o využití tiskárny, funkcích, řešení potíží, upozorněních a informace týkající se životního prostředí, předpisů a podpory."/>
+  <String ID="63" Value="Elektronickou nápovědu můžete nainstalovat z disku CD se softwarem společnosti HP nebo z webové stránky podpory:"/>    
+  <String ID="64" Value="Chcete-li provést instalaci z disku CD se softwarem společnosti HP, vložte disk CD a spusťte instalaci softwaru."/>    
+  <String ID="65" Value="Chcete-li provést instalaci z webové stránky podpory, přejděte na stránku &lt;a href=&quot;[hub_url]&quot;&gt;hp.com/support&lt;/a&gt; a stáhněte si software „Plně funkční software a ovladače“."/>    
+  <String ID="66" Value="Až se zobrazí obrazovka se seznamem doporučeného softwaru, ujistěte se, že je zvolena možnost „Nápověda [prodName]“."/>  
+</strings>

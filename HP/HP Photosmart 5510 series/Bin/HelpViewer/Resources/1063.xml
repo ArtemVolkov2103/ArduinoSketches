@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<strings>
+  <String ID="1" Value="Atgal"/>
+  <String ID="2" Value="Pirmyn"/>
+  <String ID="3" Value="Pagrindinis"/>
+  <String ID="4" Value="Spausdinti šią temą"/>
+  <String ID="5" Value="Ieškoti rezultatų"/>
+  <String ID="6" Value="Žymos"/>
+  <String ID="7" Value="Ieškoti"/>
+  <String ID="8" Value="Įrašykite paieškos frazę..."/>
+  <String ID="9" Value="Peržiūros programa"/>
+  <String ID="10" Value="Dar žr."/>
+  <String ID="11" Value="Turinys"/>
+  <String ID="12" Value="Naujas pavadinimas"/>
+  <String ID="13" Value="Gerai"/>
+  <String ID="14" Value="Atšaukti"/>
+  <String ID="15" Value="Uždaryti"/>
+  <String ID="16" Value="Išskleisti langą"/>
+  <String ID="17" Value="Suskleisti langą"/>
+  <String ID="18" Value="Kaip galėčiau...?"/>
+  <String ID="19" Value="Atidaryti"/>
+  <String ID="20" Value="Šalinti"/>
+  <String ID="21" Value="Pervardyti"/>
+  <String ID="22" Value="Mano žymos:"/>
+  <String ID="23" Value="Įtraukti temą į žymas"/>
+  <String ID="24" Value="Vietos rezultatai..."/>
+  <String ID="25" Value="Interneto rezultatai..."/>
+  <String ID="26" Value="Vietos ir interneto rezultatai..."/>
+  <String ID="27" Value="HP žinyno peržiūros programa"/>
+  <String ID="28" Value="Sveiki pradėję naudotis HP žinyno peržiūros programa"/>
+  <String ID="29" Value="Norėdami gauti pagalbos dėl gaminio naudojimo, aukščiau įveskite paieškos frazę."/>
+  <String ID="30" Value="Nepavyko prisijungti prie interneto."/>
+  <String ID="31" Value="Nerasta rezultatų, ieškant"/>
+  <String ID="32" Value="Išplėsti"/>
+  <String ID="33" Value="Sutraukti"/>
+  <String ID="34" Value="Atstatyti"/>
+  <String ID="35" Value="Šiek tiek palaukite..."/>
+  <String ID="36" Value="Indeksuojami failai. Pagal jūsų sistemos spartą tai gali šiek tiek užtrukti."/>
+  <String ID="37" Value="Žinynas"/>
+  <String ID="38" Value="Šio elemento žyma jau yra. Ar norite ją perrašyti?"/>
+  <String ID="39" Value="Ar tikrai norite šalinti?"/>
+  <String ID="40" Value="Žymėti visus"/>
+  <String ID="41" Value="Žiūrėti pradinį kodą"/>
+  <String ID="42" Value="Spausdinti..."/>
+  <String ID="43" Value="Atnaujinti"/>
+  <String ID="44" Value="Savybės"/>
+  <String ID="51" Value="Paieškos parinktys"/>
+  <String ID="52" Value="Keisti dydį"/>
+  <String ID="53" Value="Jau yra žyma tokiu pavadinimu. Pasirinkite kitą pavadinimą."/>
+  <String ID="54" Value="Spausdinti"/>
+  <String ID="55" Value="Iškirpti"/>
+  <String ID="56" Value="Kopijuoti"/>
+  <String ID="57" Value="Įklijuoti"/>
+  <String ID="58" Value="Šalinti"/>
+  <String ID="59" Value="Įjungti HP žinyną"/>
+  <String ID="60" Value="Įtraukti interneto rezultatus"/>
+  <String ID="61" Value="Gaukite konkrečia informaciją apie naudojamą gaminį, padėsiančią greitai nustatyti ir šalinti problemas."/>
+  <String ID="62" Value="Norėdami peržiūrėti Pagalbos turinį, įdiekite elektroninę Pagalbą. Pagalboje galite sužinoti apie spausdintuvo naudojimą, funkcijas, gedimų aptikimą, įspėjimus, aplinkosaugą, reikalavimus ir pagalbos informaciją."/>
+  <String ID="63" Value="Galite įdiegti elektroninę Pagalbą iš HP programinės įrangos kompaktinio disko arba tinklalapio:"/>
+  <String ID="64" Value="Norėdami įdiegti iš HP programinės įrangos kompaktinio disko, įdėkite kompaktinį diską ir pradėkite įdiegimą."/>
+  <String ID="65" Value="Norėdami įdiegti iš tinklalapio, apsilankykite &lt;a href=&quot;[hub_url]&quot;&gt;hp.com/support&lt;/a&gt;, atsisiųskite visą programinę įrangą ir tvarkykles."/>
+  <String ID="66" Value="Atsivėrus rekomenduojamos programinės įrangos langui pažymėkite parinktį „[prodName] Pagalba“. "/>
+</strings>
